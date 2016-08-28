@@ -3,6 +3,8 @@ A course exploring how technology has shaped the landscape and how we record it
 
 Meeting times: Thursdays, 1.00–4.50pm  
 Location: Visual Arts & Technology Lab (40.743658º N, 74.026892º W)
+
+***
  
 ###COURSE DESCRIPTION
 Fences, grafting, E-ZPass, flint knapping, fake tree cellphone towers, geophones, weather sensor networks, bonsai, train tunnels, electronic billboards, aerial kite photography.
@@ -22,6 +24,8 @@ Make sketchbooks, observational drawing and writing exercises
 Homework: 	
 Gather supplies
 
+\- \- \-
+
 **WEEK 2: Observation, pre-historical New Jersey, timescale**  
 
 In class: 	
@@ -32,6 +36,8 @@ Selections from *Grapefruit* (Ono), *The Goose Lake Trail* (Eliasson/Obrist), *A
 
 Homework: 	
 Record three square feet
+
+\- \- \-
 
 **WEEK 3: Walking as a way of knowing, acoustic ecology**  
 
@@ -44,6 +50,8 @@ Selections from *Walking and Mapping* (O’Rourke), *NSA Nature Walks* (Guardian
 Homework: 	
 Document a walk
 
+\- \- \-
+
 **WEEK 4: Mapping and the technological perspective**  
 
 In class: 	
@@ -54,6 +62,8 @@ Selections from *Gustav Klimt Landscapes* and *Experimental Geography* (Paglen)
 
 Homework: 	
 Create a map of your surroundings
+
+\- \- \-
 
 **WEEK 5: The Grand Tour, the domesticated and reflective landscape**  
 
@@ -66,6 +76,8 @@ Selections from *Birth of the Modern* (Johnson); Frost, Basho, Snyder, and Colli
 Homework: 	
 Finish Minecraft sketches and poems, begin research paper bibliography and gather visual material
 
+\- \- \-
+
 **WEEK 6: Exploration and visiting places we’ve never been**  
 
 In class: 	
@@ -76,6 +88,8 @@ Selections from *Endurance*, *What It's Like To Be An Animal* (New Yorker)
 
 Homework: 	
 Document walk in Google maps in a place you’ve never been; continue research paper
+
+\- \- \-
 
 **WEEK 7: Artificial landscapes, Frederick Law Olmsted**  
 
@@ -88,6 +102,8 @@ Selections on Central Park/Olmsted
 Homework: 	
 Draft research papers due
 
+\- \- \-
+
 **WEEK 8: Suburban and industrial landscapes**  
 
 In class: 	
@@ -98,6 +114,8 @@ Selections from Robert Smithson
 
 Homework: 	
 Research papers due
+
+\- \- \-
 
 **WEEK 9: Exploring the urban landscape, cameras, and technology of capture**  
 
@@ -110,7 +128,9 @@ Selections from *Situationist International Anthology* (Knabb), *Drone Shadow Ha
 Homework: 	
 Recording spaces and objects
 
-**WEEK 1: Technological infrastructure**  
+\- \- \-
+
+**WEEK 10: Technological infrastructure**  
 
 In class: 	
 Visit sites of internet infrastructure in NYC
@@ -120,6 +140,8 @@ Selections from *Tubes* (Blum), *Networks of New York* (Burrington), *Data Space
 
 Homework: 	
 Write final project proposal
+
+\- \- \-
 
 **WEEK 11: Future landscapes**  
 
@@ -132,6 +154,8 @@ Selections from *Vermillion Sands* (Ballard), *Our Arrival* (Parrish)
 Homework: 	
 Work on final project
 
+\- \- \-
+
 **WEEK 12: Virtual and algorithmic landscapes**  
 
 In class: 	
@@ -143,10 +167,12 @@ Selections from *Ready Player One*, articles on *Dwarf Fortress* and *No Man’s
 Homework: 	
 Work on final project
 
+\- \- \-
+
 **NOVEMBER 24**  
 Thanksgiving break, no class!
 
-***
+\- \- \-
 
 **WEEK 13 and 14: Work weeks**  
 
@@ -155,6 +181,8 @@ In-progress critique and work day
 
 Homework: 	
 Work on final project and documentation
+
+\- \- \-
 
 **FINAL EXAM PERIOD**  
 (Date TBA, please save in your calendar)
