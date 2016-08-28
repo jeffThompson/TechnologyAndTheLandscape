@@ -1,10 +1,10 @@
 # Technology and the Landscape
 A course exploring how technology has shaped the landscape and how we record it 
 
-Meeting times: 
+Meeting times:  
 Thursdays, 1.00–4.50pm  
 
-Location: 
+Location:  
 Visual Arts & Technology Lab (40.743658º N, 74.026892º W)
 
 ***
