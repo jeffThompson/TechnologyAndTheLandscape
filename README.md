@@ -1,8 +1,11 @@
 # Technology and the Landscape
 A course exploring how technology has shaped the landscape and how we record it 
 
-Meeting times: Thursdays, 1.00–4.50pm  
-Location: Visual Arts & Technology Lab (40.743658º N, 74.026892º W)
+Meeting times: 
+Thursdays, 1.00–4.50pm  
+
+Location: 
+Visual Arts & Technology Lab (40.743658º N, 74.026892º W)
 
 ***
  
@@ -16,155 +19,157 @@ This hybrid studio/seminar course examines how technology has impacted our exper
 ###COURSE CALENDAR
 Readings are listed for the days they are due. More details are in the "Weekly Calendar and Assignments" folder.
 
+\- \- \-
+
 **WEEK 1: Introductions and syllabus**  
 
-In class: 	
+**In class:**   	
 Make sketchbooks, observational drawing and writing exercises
 
-Homework: 	
+**Homework:**   	
 Gather supplies
 
 \- \- \-
 
 **WEEK 2: Observation, pre-historical New Jersey, timescale**  
 
-In class: 	
+**In class:**   	
 Field visit to Liberty State Park
 
-Readings: 	
+**Readings:**   	
 Selections from *Grapefruit* (Ono), *The Goose Lake Trail* (Eliasson/Obrist), *An Attempt to Exhaust A Place in Paris* (Perec), and Lenape folklore
 
-Homework: 	
+**Homework:**   	
 Record three square feet
 
 \- \- \-
 
 **WEEK 3: Walking as a way of knowing, acoustic ecology**  
 
-In class: 	
+**In class:**   	
 GPS drawings, field recordings
 
-Readings: 	
+**Readings:**   	
 Selections from *Walking and Mapping* (O’Rourke), *NSA Nature Walks* (Guardian), *The Soundscapes* (Schafer)
 
-Homework: 	
+**Homework:**   	
 Document a walk
 
 \- \- \-
 
 **WEEK 4: Mapping and the technological perspective**  
 
-In class: 	
+**In class:**   	
 Exploring mapping techniques
 
-Readings: 	
+**Readings:**   	
 Selections from *Gustav Klimt Landscapes* and *Experimental Geography* (Paglen)
 
-Homework: 	
+**Homework:**   	
 Create a map of your surroundings
 
 \- \- \-
 
 **WEEK 5: The Grand Tour, the domesticated and reflective landscape**  
 
-In class: 	
+**In class:**   	
 Nature walk in Minecraft
 
-Readings: 	
+**Readings:**   	
 Selections from *Birth of the Modern* (Johnson); Frost, Basho, Snyder, and Collins
 
-Homework: 	
+**Homework:**   	
 Finish Minecraft sketches and poems, begin research paper bibliography and gather visual material
 
 \- \- \-
 
 **WEEK 6: Exploration and visiting places we’ve never been**  
 
-In class: 	
+**In class:**   	
 Print/bind Minecraft chapbooks, walking tour in Google Maps
 
-Readings: 	
+**Readings:**   	
 Selections from *Endurance*, *What It's Like To Be An Animal* (New Yorker)
 
-Homework: 	
+**Homework:**   	
 Document walk in Google maps in a place you’ve never been; continue research paper
 
 \- \- \-
 
 **WEEK 7: Artificial landscapes, Frederick Law Olmsted**  
 
-In class: 	
+**In class:**   	
 Field visit to Central Park
 
-Readings: 	
+**Readings:**   	
 Selections on Central Park/Olmsted
 
-Homework: 	
+**Homework:**   	
 Draft research papers due
 
 \- \- \-
 
 **WEEK 8: Suburban and industrial landscapes**  
 
-In class: 	
+**In class:**   	
 Field visit to Meadowlands
 
-Readings: 	
+**Readings:**   	
 Selections from Robert Smithson
 
-Homework: 	
+**Homework:**   	
 Research papers due
 
 \- \- \-
 
 **WEEK 9: Exploring the urban landscape, cameras, and technology of capture**  
 
-In class: 	
+**In class:**   	
 Dérive in NYC, 3D scanning/photogrammetry demo
 
-Readings: 	
+**Readings:**   	
 Selections from *Situationist International Anthology* (Knabb), *Drone Shadow Handbook* (Bridle), *Sonic Warfare* (Goodman)
 
-Homework: 	
+**Homework:**   	
 Recording spaces and objects
 
 \- \- \-
 
 **WEEK 10: Technological infrastructure**  
 
-In class: 	
+**In class:**   	
 Visit sites of internet infrastructure in NYC
 
-Readings: 	
+**Readings:**   	
 Selections from *Tubes* (Blum), *Networks of New York* (Burrington), *Data Space* (CLOG)
 
-Homework: 	
+**Homework:**   	
 Write final project proposal
 
 \- \- \-
 
 **WEEK 11: Future landscapes**  
 
-In class: 	
+**In class:**   	
 Selections from *Blade Runner*
 
-Readings: 	
+**Readings:**   	
 Selections from *Vermillion Sands* (Ballard), *Our Arrival* (Parrish)
 
-Homework: 	
+**Homework:**   	
 Work on final project
 
 \- \- \-
 
 **WEEK 12: Virtual and algorithmic landscapes**  
 
-In class: 	
+**In class:**   	
 Videogame play-throughs, make something from the perspective of a data buoy
 
-Readings: 	
+**Readings:**   	
 Selections from *Ready Player One*, articles on *Dwarf Fortress* and *No Man’s Sky*
 
-Homework: 	
+**Homework:**   	
 Work on final project
 
 \- \- \-
@@ -176,10 +181,10 @@ Thanksgiving break, no class!
 
 **WEEK 13 and 14: Work weeks**  
 
-In class: 	
+**In class:**   	
 In-progress critique and work day
 
-Homework: 	
+**Homework:**   	
 Work on final project and documentation
 
 \- \- \-
