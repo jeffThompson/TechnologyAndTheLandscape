@@ -1,4 +1,4 @@
-![Sublime Minecraft](https://raw.githubusercontent.com/jeffThompson/TechnologyAndTheLandscape/master/Images/SublimeMinecraft.jpg)
+![Sublime Minecraft](https://github.com/jeffThompson/TechnologyAndTheLandscape/raw/master/Images/SublimeMinecraft.jpg)
 
 # Technology and the Landscape
 
