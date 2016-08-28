@@ -1,15 +1,5 @@
 # Technology and the Landscape
-A course exploring how technology has shaped the landscape and how we record it 
 
-Meeting times:  
-Thursdays, 1.00–4.50pm  
-
-Location:  
-Visual Arts & Technology Lab (40.743658º N, 74.026892º W)
-
-***
- 
-###COURSE DESCRIPTION
 Fences, grafting, E-ZPass, flint knapping, fake tree cellphone towers, geophones, weather sensor networks, bonsai, train tunnels, electronic billboards, aerial kite photography.
 
 This hybrid studio/seminar course examines how technology has impacted our experience of the landscape, from stone tools to the invention of perspective to algorithmic and virtual worlds. Through creative projects, readings, writing, and field visits, we will explore how technology has shaped the landscape, ways of recording it, and our cultural relationship with the natural and built world.
