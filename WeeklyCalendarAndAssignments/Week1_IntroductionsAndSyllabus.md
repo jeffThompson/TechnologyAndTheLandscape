@@ -60,7 +60,7 @@ Specifically, next week we’ll be going to Liberty State Park. We’ll walk to 
 Your other assignment every week will be the readings. They are listed by the week they are due, and include supplemental PDFs as suggestions if you want to dig deeper.
 
 ###READINGS FOR NEXT WEEK  
-* Grapefruit (Ono)  
-* The Goose Lake Trail (Eliasson/Obrist)  
-* An Attempt to Exhaust A Place in Paris (Perec)  
+* *Grapefruit* (Ono)  
+* *The Goose Lake Trail* (Eliasson/Obrist)  
+* *An Attempt to Exhaust A Place in Paris* (Perec)  
 * Lenape folklore  
