@@ -7,13 +7,24 @@ Fences, grafting, E-ZPass, flint knapping, fake tree cellphone towers, geophones
 This hybrid studio/seminar course examines how technology has impacted our experience of the landscape, from stone tools to the invention of perspective to algorithmic and virtual worlds. Through creative projects, readings, writing, and field visits, we will explore how technology has shaped the landscape, ways of recording it, and our cultural relationship with the natural and built world.
 
 ***
+
+###CONTENTS  
+This repository contains:
+
+* Weekly Calendar And Assignments: detailed info on each week, including assignments given – if you bookmark anything, it should be this
+* Images: non-art images we'll look at during various weeks
+* Projects shown: offline documentation of art, design, and creative projects
+* Readings: PDFs of weekly readings, plus lots of optional ones
+* Resources: tutorials and other technical material
+
+***
  
 ###COURSE CALENDAR
 Readings are listed for the days they are due. More details are in the "Weekly Calendar and Assignments" folder.
 
 \- \- \-
 
-**WEEK 1: INTRODUCTIONS AND SYLLABUS**  
+####WEEK 1: INTRODUCTIONS AND SYLLABUS    
 
 **In class**   	
 Make sketchbooks, observational drawing and writing exercises
@@ -23,7 +34,7 @@ Gather supplies
 
 \- \- \-
 
-**WEEK 2: OBSERVATION, PRE-HISTORICAL NEW JERSEY, TIMESCALE**  
+####WEEK 2: OBSERVATION, PRE-HISTORICAL NEW JERSEY, TIMESCALE    
 
 **In class**   	
 Field visit to Liberty State Park
@@ -36,7 +47,7 @@ Record three square feet
 
 \- \- \-
 
-**WEEK 3: WALKING AS A WAY OF KNOWING, ACOUSTIC ECOLOGY**  
+####WEEK 3: WALKING AS A WAY OF KNOWING, ACOUSTIC ECOLOGY    
 
 **In class**   	
 GPS drawings, field recordings
@@ -49,7 +60,7 @@ Document a walk
 
 \- \- \-
 
-**WEEK 4: MAPPING AND THE TECHNOLOGICAL PERSPECTIVE**  
+####WEEK 4: MAPPING AND THE TECHNOLOGICAL PERSPECTIVE    
 
 **In class**   	
 Exploring mapping techniques
@@ -62,7 +73,7 @@ Create a map of your surroundings
 
 \- \- \-
 
-**WEEK 5: THE GRAND TOUR, THE DOMESTICATED AND REFLECTIVE LANDSCAPE**  
+####WEEK 5: THE GRAND TOUR, THE DOMESTICATED AND REFLECTIVE LANDSCAPE    
 
 **In class**   	
 Nature walk in Minecraft
@@ -75,7 +86,7 @@ Finish Minecraft sketches and poems, begin research paper bibliography and gathe
 
 \- \- \-
 
-**WEEK 6: EXPLORATION AND VISITING PLACES WE’VE NEVER BEEN**  
+####WEEK 6: EXPLORATION AND VISITING PLACES WE’VE NEVER BEEN    
 
 **In class**   	
 Print/bind Minecraft chapbooks, walking tour in Google Maps
@@ -88,7 +99,7 @@ Document walk in Google maps in a place you’ve never been; continue research p
 
 \- \- \-
 
-**WEEK 7: ARTIFICIAL LANDSCAPES, FREDERICK LAW OLMSTED**  
+####WEEK 7: ARTIFICIAL LANDSCAPES, FREDERICK LAW OLMSTED    
 
 **In class**   	
 Field visit to Central Park
@@ -101,7 +112,7 @@ Draft research papers due
 
 \- \- \-
 
-**WEEK 8: SUBURBAN AND INDUSTRIAL LANDSCAPES**  
+####WEEK 8: SUBURBAN AND INDUSTRIAL LANDSCAPES    
 
 **In class**   	
 Field visit to Meadowlands
@@ -114,7 +125,7 @@ Research papers due
 
 \- \- \-
 
-**WEEK 9: EXPLORING THE URBAN LANDSCAPE, CAMERAS, AND TECHNOLOGY OF CAPTURE**  
+####WEEK 9: EXPLORING THE URBAN LANDSCAPE, CAMERAS, AND TECHNOLOGY OF CAPTURE    
 
 **In class**   	
 Dérive in NYC, 3D scanning/photogrammetry demo
@@ -127,7 +138,7 @@ Recording spaces and objects
 
 \- \- \-
 
-**WEEK 10: TECHNOLOGICAL INFRASTRUCTURE**  
+####WEEK 10: TECHNOLOGICAL INFRASTRUCTURE    
 
 **In class**   	
 Visit sites of internet infrastructure in NYC
@@ -140,7 +151,7 @@ Write final project proposal
 
 \- \- \-
 
-**WEEK 11: FUTURE LANDSCAPES**  
+####WEEK 11: FUTURE LANDSCAPES    
 
 **In class**   	
 Selections from *Blade Runner*
@@ -153,7 +164,7 @@ Work on final project
 
 \- \- \-
 
-**WEEK 12: VIRTUAL AND ALGORITHMIC LANDSCAPES**  
+####WEEK 12: VIRTUAL AND ALGORITHMIC LANDSCAPES    
 
 **In class**   	
 Videogame play-throughs, make something from the perspective of a data buoy
@@ -166,7 +177,7 @@ Work on final project
 
 \- \- \-
 
-**WEEK 13 AND 14: WORK WEEKS**  
+####WEEK 13 AND 14: WORK WEEKS    
 
 **In class**   	
 In-progress critique and work day
