@@ -13,7 +13,7 @@ Readings are listed for the days they are due. More details are in the "Weekly C
 
 \- \- \-
 
-**WEEK 1: Introductions and syllabus**  
+**WEEK 1: INTRODUCTIONS AND SYLLABUS**  
 
 **In class:**   	
 Make sketchbooks, observational drawing and writing exercises
@@ -23,7 +23,7 @@ Gather supplies
 
 \- \- \-
 
-**WEEK 2: Observation, pre-historical New Jersey, timescale**  
+**WEEK 2: OBSERVATION, PRE-HISTORICAL NEW JERSEY, TIMESCALE**  
 
 **In class:**   	
 Field visit to Liberty State Park
@@ -36,7 +36,7 @@ Record three square feet
 
 \- \- \-
 
-**WEEK 3: Walking as a way of knowing, acoustic ecology**  
+**WEEK 3: WALKING AS A WAY OF KNOWING, ACOUSTIC ECOLOGY**  
 
 **In class:**   	
 GPS drawings, field recordings
@@ -49,7 +49,7 @@ Document a walk
 
 \- \- \-
 
-**WEEK 4: Mapping and the technological perspective**  
+**WEEK 4: MAPPING AND THE TECHNOLOGICAL PERSPECTIVE**  
 
 **In class:**   	
 Exploring mapping techniques
@@ -62,7 +62,7 @@ Create a map of your surroundings
 
 \- \- \-
 
-**WEEK 5: The Grand Tour, the domesticated and reflective landscape**  
+**WEEK 5: THE GRAND TOUR, THE DOMESTICATED AND REFLECTIVE LANDSCAPE**  
 
 **In class:**   	
 Nature walk in Minecraft
@@ -75,7 +75,7 @@ Finish Minecraft sketches and poems, begin research paper bibliography and gathe
 
 \- \- \-
 
-**WEEK 6: Exploration and visiting places we’ve never been**  
+**WEEK 6: EXPLORATION AND VISITING PLACES WE’VE NEVER BEEN**  
 
 **In class:**   	
 Print/bind Minecraft chapbooks, walking tour in Google Maps
@@ -88,7 +88,7 @@ Document walk in Google maps in a place you’ve never been; continue research p
 
 \- \- \-
 
-**WEEK 7: Artificial landscapes, Frederick Law Olmsted**  
+**WEEK 7: ARTIFICIAL LANDSCAPES, FREDERICK LAW OLMSTED**  
 
 **In class:**   	
 Field visit to Central Park
@@ -101,7 +101,7 @@ Draft research papers due
 
 \- \- \-
 
-**WEEK 8: Suburban and industrial landscapes**  
+**WEEK 8: SUBURBAN AND INDUSTRIAL LANDSCAPES**  
 
 **In class:**   	
 Field visit to Meadowlands
@@ -114,7 +114,7 @@ Research papers due
 
 \- \- \-
 
-**WEEK 9: Exploring the urban landscape, cameras, and technology of capture**  
+**WEEK 9: EXPLORING THE URBAN LANDSCAPE, CAMERAS, AND TECHNOLOGY OF CAPTURE**  
 
 **In class:**   	
 Dérive in NYC, 3D scanning/photogrammetry demo
@@ -127,7 +127,7 @@ Recording spaces and objects
 
 \- \- \-
 
-**WEEK 10: Technological infrastructure**  
+**WEEK 10: TECHNOLOGICAL INFRASTRUCTURE**  
 
 **In class:**   	
 Visit sites of internet infrastructure in NYC
@@ -140,7 +140,7 @@ Write final project proposal
 
 \- \- \-
 
-**WEEK 11: Future landscapes**  
+**WEEK 11: FUTURE LANDSCAPES**  
 
 **In class:**   	
 Selections from *Blade Runner*
@@ -153,7 +153,7 @@ Work on final project
 
 \- \- \-
 
-**WEEK 12: Virtual and algorithmic landscapes**  
+**WEEK 12: VIRTUAL AND ALGORITHMIC LANDSCAPES**  
 
 **In class:**   	
 Videogame play-throughs, make something from the perspective of a data buoy
@@ -166,12 +166,7 @@ Work on final project
 
 \- \- \-
 
-**NOVEMBER 24**  
-Thanksgiving break, no class!
-
-\- \- \-
-
-**WEEK 13 and 14: Work weeks**  
+**WEEK 13 AND 14: WORK WEEKS**  
 
 **In class:**   	
 In-progress critique and work day
@@ -182,5 +177,5 @@ Work on final project and documentation
 \- \- \-
 
 **FINAL EXAM PERIOD**  
-(Date TBA, please save in your calendar)
+(Date TBA, please save in your calendar)  
 Final critique
