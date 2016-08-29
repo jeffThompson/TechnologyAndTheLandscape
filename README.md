@@ -15,163 +15,163 @@ Readings are listed for the days they are due. More details are in the "Weekly C
 
 **WEEK 1: INTRODUCTIONS AND SYLLABUS**  
 
-**In class:**   	
+**In class**   	
 Make sketchbooks, observational drawing and writing exercises
 
-**Homework:**   	
+**Homework**   	
 Gather supplies
 
 \- \- \-
 
 **WEEK 2: OBSERVATION, PRE-HISTORICAL NEW JERSEY, TIMESCALE**  
 
-**In class:**   	
+**In class**   	
 Field visit to Liberty State Park
 
-**Readings:**   	
+**Readings**   	
 Selections from *Grapefruit* (Ono), *The Goose Lake Trail* (Eliasson/Obrist), *An Attempt to Exhaust A Place in Paris* (Perec), and Lenape folklore
 
-**Homework:**   	
+**Homework**   	
 Record three square feet
 
 \- \- \-
 
 **WEEK 3: WALKING AS A WAY OF KNOWING, ACOUSTIC ECOLOGY**  
 
-**In class:**   	
+**In class**   	
 GPS drawings, field recordings
 
-**Readings:**   	
+**Readings**   	
 Selections from *Walking and Mapping* (O’Rourke), *NSA Nature Walks* (Guardian), *The Soundscapes* (Schafer)
 
-**Homework:**   	
+**Homework**   	
 Document a walk
 
 \- \- \-
 
 **WEEK 4: MAPPING AND THE TECHNOLOGICAL PERSPECTIVE**  
 
-**In class:**   	
+**In class**   	
 Exploring mapping techniques
 
-**Readings:**   	
+**Readings**   	
 Selections from *Gustav Klimt Landscapes* and *Experimental Geography* (Paglen)
 
-**Homework:**   	
+**Homework**   	
 Create a map of your surroundings
 
 \- \- \-
 
 **WEEK 5: THE GRAND TOUR, THE DOMESTICATED AND REFLECTIVE LANDSCAPE**  
 
-**In class:**   	
+**In class**   	
 Nature walk in Minecraft
 
-**Readings:**   	
+**Readings**   	
 Selections from *Birth of the Modern* (Johnson); Frost, Basho, Snyder, and Collins
 
-**Homework:**   	
+**Homework**   	
 Finish Minecraft sketches and poems, begin research paper bibliography and gather visual material
 
 \- \- \-
 
 **WEEK 6: EXPLORATION AND VISITING PLACES WE’VE NEVER BEEN**  
 
-**In class:**   	
+**In class**   	
 Print/bind Minecraft chapbooks, walking tour in Google Maps
 
-**Readings:**   	
+**Readings**   	
 Selections from *Endurance*, *What It's Like To Be An Animal* (New Yorker)
 
-**Homework:**   	
+**Homework**   	
 Document walk in Google maps in a place you’ve never been; continue research paper
 
 \- \- \-
 
 **WEEK 7: ARTIFICIAL LANDSCAPES, FREDERICK LAW OLMSTED**  
 
-**In class:**   	
+**In class**   	
 Field visit to Central Park
 
-**Readings:**   	
+**Readings**   	
 Selections on Central Park/Olmsted
 
-**Homework:**   	
+**Homework**   	
 Draft research papers due
 
 \- \- \-
 
 **WEEK 8: SUBURBAN AND INDUSTRIAL LANDSCAPES**  
 
-**In class:**   	
+**In class**   	
 Field visit to Meadowlands
 
-**Readings:**   	
+**Readings**   	
 Selections from Robert Smithson
 
-**Homework:**   	
+**Homework**   	
 Research papers due
 
 \- \- \-
 
 **WEEK 9: EXPLORING THE URBAN LANDSCAPE, CAMERAS, AND TECHNOLOGY OF CAPTURE**  
 
-**In class:**   	
+**In class**   	
 Dérive in NYC, 3D scanning/photogrammetry demo
 
-**Readings:**   	
+**Readings**   	
 Selections from *Situationist International Anthology* (Knabb), *Drone Shadow Handbook* (Bridle), *Sonic Warfare* (Goodman)
 
-**Homework:**   	
+**Homework**   	
 Recording spaces and objects
 
 \- \- \-
 
 **WEEK 10: TECHNOLOGICAL INFRASTRUCTURE**  
 
-**In class:**   	
+**In class**   	
 Visit sites of internet infrastructure in NYC
 
-**Readings:**   	
+**Readings**   	
 Selections from *Tubes* (Blum), *Networks of New York* (Burrington), *Data Space* (CLOG)
 
-**Homework:**   	
+**Homework**   	
 Write final project proposal
 
 \- \- \-
 
 **WEEK 11: FUTURE LANDSCAPES**  
 
-**In class:**   	
+**In class**   	
 Selections from *Blade Runner*
 
-**Readings:**   	
+**Readings**   	
 Selections from *Vermillion Sands* (Ballard), *Our Arrival* (Parrish)
 
-**Homework:**   	
+**Homework**   	
 Work on final project
 
 \- \- \-
 
 **WEEK 12: VIRTUAL AND ALGORITHMIC LANDSCAPES**  
 
-**In class:**   	
+**In class**   	
 Videogame play-throughs, make something from the perspective of a data buoy
 
-**Readings:**   	
+**Readings**   	
 Selections from *Ready Player One*, articles on *Dwarf Fortress* and *No Man’s Sky*
 
-**Homework:**   	
+**Homework**   	
 Work on final project
 
 \- \- \-
 
 **WEEK 13 AND 14: WORK WEEKS**  
 
-**In class:**   	
+**In class**   	
 In-progress critique and work day
 
-**Homework:**   	
+**Homework**   	
 Work on final project and documentation
 
 \- \- \-
