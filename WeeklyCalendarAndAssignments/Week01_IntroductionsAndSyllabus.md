@@ -1,4 +1,4 @@
-![Trash in the Mariana Trench](https://raw.githubusercontent.com/jeffThompson/TechnologyAndTheLandscape/master/Images/TrashInTheMarianaTrench.jpg)
+![Drawing by John Ruskin](https://raw.githubusercontent.com/jeffThompson/TechnologyAndTheLandscape/master/Images/JohnRuskin_ChamonixMerDeGlace.jpg)
 
 WEEK 1
 ====
