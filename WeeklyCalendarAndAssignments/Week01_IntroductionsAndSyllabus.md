@@ -3,7 +3,7 @@ WEEK 1
 Introductions and syllabus
 
 ###LECTURE
-Introductory talk: transformation of the landscape, examples (Institute for Advanced Study computer, printing press and spray paint), goals for the class
+Introductory talk ([slides](https://github.com/jeffThompson/TechnologyAndTheLandscape/blob/master/Lectures/IntroToTechnologyAndTheLansdcape.pdf)): transformation of the landscape, examples (Institute for Advanced Study computer, printing press and spray paint), goals for the class
 
 ###IN CLASS
 "It is only through drawing that I actually look at things carefully." – Milton Glaser
