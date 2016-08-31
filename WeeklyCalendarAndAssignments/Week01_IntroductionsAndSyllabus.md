@@ -1,8 +1,7 @@
 ![Drawing by John Ruskin](https://raw.githubusercontent.com/jeffThompson/TechnologyAndTheLandscape/master/Images/JohnRuskin_ChamonixMerDeGlace.jpg)
 
-WEEK 1
+WEEK 1: INTRODUCTIONS AND SYLLABUS
 ====
-Introductions and syllabus
 
 ###LECTURE
 Introductory talk ([slides](https://github.com/jeffThompson/TechnologyAndTheLandscape/blob/master/Lectures/IntroToTechnologyAndTheLansdcape.pdf)): transformation of the landscape, examples (Institute for Advanced Study computer, printing press and spray paint), goals for the class
