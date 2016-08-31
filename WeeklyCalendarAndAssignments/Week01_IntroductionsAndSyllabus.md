@@ -1,3 +1,5 @@
+![Trash in the Mariana Trench](https://raw.githubusercontent.com/jeffThompson/TechnologyAndTheLandscape/master/Images/TrashInTheMarianaTrench.jpg)
+
 WEEK 1
 ====
 Introductions and syllabus
