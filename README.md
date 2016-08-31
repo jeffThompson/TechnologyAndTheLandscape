@@ -24,7 +24,7 @@ Readings are listed for the days they are due. More details are in the "Weekly C
 
 \- \- \-
 
-### [WEEK 1: INTRODUCTIONS AND SYLLABUS](https://github.com/jeffThompson/TechnologyAndTheLandscape/blob/master/WeeklyCalendarAndAssignments/Week01_IntroductionsAndSyllabus.md)  
+### [WEEK 1: INTRODUCTIONS AND SYLLABUS &rarr;](https://github.com/jeffThompson/TechnologyAndTheLandscape/blob/master/WeeklyCalendarAndAssignments/Week01_IntroductionsAndSyllabus.md)  
 
 **In class**   	
 Make sketchbooks, observational drawing and writing exercises
