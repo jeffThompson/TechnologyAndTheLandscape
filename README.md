@@ -17,6 +17,8 @@ This repository contains:
 * **Readings:** PDFs of weekly readings, plus lots of optional ones
 * **Resources:** tutorials and other technical material
 
+If you have a reading, resource, tutorial, artwork, or something else to add, please [submit it as an "issue" above](https://github.com/jeffThompson/TechnologyAndTheLandscape/issues/new).
+
 ***
  
 ## COURSE CALENDAR
