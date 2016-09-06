@@ -45,7 +45,7 @@ Field visit to Liberty State Park
 Selections from *Grapefruit* (Ono), *The Goose Lake Trail* (Eliasson/Obrist), *An Attempt to Exhaust A Place in Paris* (Perec), and Lenape folklore
 
 **Homework**   	
-Record three square feet
+Record three cubic feet
 
 \- \- \-
 
