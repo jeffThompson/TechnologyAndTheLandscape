@@ -36,7 +36,7 @@ Gather supplies
 
 \- \- \-
 
-### WEEK 2: OBSERVATION, PRE-HISTORICAL NEW JERSEY, TIMESCALE    
+### [WEEK 2: OBSERVATION, PRE-HISTORICAL NEW JERSEY, TIMESCALE](https://github.com/jeffThompson/TechnologyAndTheLandscape/blob/master/WeeklyCalendarAndAssignments/Week02_Observation.md)  
 
 **In class**   	
 Field visit to Liberty State Park
