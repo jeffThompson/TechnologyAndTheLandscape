@@ -7,12 +7,12 @@ WEEK 2: OBSERVATION, PRE-HISTORICAL NEW JERSEY, TIMESCALE
 
 Some things you'll be able to see in and from the park:  
 
-* Rock from the [Newark Supergroup](https://en.wikipedia.org/wiki/Newark_Supergroup) (not a band) which formed in the Triassic and Jurassic periods (144-248 million years ago) and can be up to 6 kilometers thick; weather when it formed was subtropical and rainy, creating swamps and lakes  
+* Rock from the [Newark Supergroup](https://en.wikipedia.org/wiki/Newark_Supergroup) (not a band, though it should be) which formed in the Triassic and Jurassic periods (144-248 million years ago) and can be up to 6 kilometers thick; the weather when it formed was subtropical and rainy, creating swamps and lakes  
 * We can also see [Manhattan schist](https://en.wikipedia.org/wiki/Manhattan#Bedrock), which allows for the skyscrapers in NYC and Jersey City  
-* Views of the web of New York harbor, formed by hundred-foot thick glaciers cutting into the schist  
+* Views of the web of New York harbor, formed by the [1000-foot-thick Wisconisin Ice Sheet glacier](https://www.nycgovparks.org/about/history/geology) cutting into the schist  
 * Nearby lies the Ramapo Fault zone, a 185-mile-long fault that results in recent but small earthquakes
 * Most of the park is a former landfill, created by the railroads
-* Wildlife, which can include lobster, starfish, osprey, dolphins, teredos (4-foot-long worms that eat pilings), and, if you had a hydrophone, the sounds of whales less than 20 miles away  
+* Wildlife, which can include lobster, starfish, osprey, dolphins, [teredos](https://en.wikipedia.org/wiki/Teredo_(bivalve)) (4-foot-long worms that eat pilings), and, if you had a hydrophone, the sounds of whales less than 20 miles away  
 
 Northern end of the park:
 
@@ -22,11 +22,11 @@ Northern end of the park:
 
 Southern end:
 
-* Communipaw Cove, a tidal salt marsh  
+* Communipaw Cove, a [tidal salt marsh](https://en.wikipedia.org/wiki/Salt_marsh)  
 * Industrial buildings including Daily News and Sysco  
-* Black Tom Island, now connected to the mainland by the landfill; site of a munitions depot that was sabotaged by German agents in 1915, causing an explosion felt as far away as Philadelphia  
+* [Black Tom Island](http://www.njcu.edu/programs/jchistory/Pages/B_Pages/Black_Tom_Explosion.htm), now connected to the mainland by the landfill; site of a munitions depot that was sabotaged by German agents in 1915, causing an explosion felt as far away as Philadelphia  
 * In the Hudson River, the US Coast Guard operates [anti-swimmer sonar systems](http://www.uscg.mil/hq/cg4/cg47/docs/FinalIAS-PEA.pdf) which sweep the harbor and can distinguish between human swimmers and dolphins or seals (and includes some [work by Stevens faculty](http://brian-borowski.com/publications/PassiveAcousticThreatDetection.pdf))  
-* In the southern part of the Upper Bay, the convergence of the Ambrose Channel and other shipping lanes, formerly marked by "light ships" and towers before the advent of GPS; channels were blasted into the bottom of the river to depths of 32–43'
+* In the southern part of the Upper Bay, the convergence of the Ambrose Channel and other shipping lanes, formerly marked by ["light ships"](https://en.wikipedia.org/wiki/Lightvessel) and towers before the advent of GPS; channels were blasted into the bottom of the river to depths of 32–43'
 
 ###IN CLASS
 Today's class is about observing, from a variety of perspectives and means. Think about the readings from this week and their differing ways of observing the world. Also think about the idea of timescale, that this place has existed in so many different ways over its history, many of which echo into today.
