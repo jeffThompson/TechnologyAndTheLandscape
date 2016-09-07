@@ -56,8 +56,8 @@ What you record can be literal, such as objects found or temperatures recorded. 
 The ultimate format of your recordings is up to you, but should be merged into a cohesive, creative presentation. We will present and discuss these at the beginning of class next week. Think about how your final output helps our understanding of your observations – with the exception of video and other things that are intentionally projected, digital images should be printed.
 
 As with all our projects, this is meant to be exploratory, as much about how you approach it as it is about what the result is. Be bold and experimental!
-
-*\* Above- or below-ground (or a mix) is up to you, but be sure to get permission if you’re going to dig somewhere.*
+  
+* \* Above- or below-ground (or a mix) is up to you, but be sure to get permission if you’re going to dig somewhere.*
 
 ###READINGS FOR NEXT WEEK   
 * Selections from *Walking and Mapping* (O'Rourke)  
