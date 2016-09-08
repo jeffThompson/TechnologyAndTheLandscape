@@ -62,13 +62,14 @@ You can also [download the worksheets](https://github.com/jeffThompson/Technolog
 * [ChronoZoom](http://eps.berkeley.edu/~saekow/chronozoom/launch/index.html), an interactive timescale viewer  
 * Friends of the Pleistocene's [Geologic City: A Field Guide to the Geoarchitecture of New York](https://fopnews.wordpress.com/2010/08/05/geologic-city-a-field-guide-to-the-geoarchitecture-of-new-york), examining NYC’s architecture from the point of view of rocks and geology  
 * A few articles on ideas related to timescale, including [deep time](https://en.wikipedia.org/wiki/Deep_time), [orders of magnitude related to time](https://en.wikipedia.org/wiki/Orders_of_magnitude_(time)), and [shifts in the scientific definition of the Earth’s place in the universe](https://en.wikipedia.org/wiki/Earth%27s_location_in_the_Universe)  
+* The [*Bicycle Seismograph*](http://katihyyppa.com/bicycle-seismographs), developed by Kati Hyyppä
 
 ###HOMEWORK  
 Your assignment for next week is to investigate and record a three-cubic-foot location (ie 3-feet wide by 3-feet deep by 3-feet tall*). You can do this in any place you want, using any methodology and materials. Think of yourself as an artistic archeologist, uncovering and recording as many minute details as possible.
 
 What you record can be literal, such as objects found or temperatures recorded. It can also be things that echo outwards, such as what that place might have been like at different times, or experiential and tied to your experience of the place. Overall, the goal is to observe – look, listen, and record as carefully and meticulously as possible! You don't have to record *everything*, so think about what makes sense to your site and is of interest to you.
 
-The ultimate format of your recordings is up to you, but should be merged into a cohesive, creative presentation. We will present and discuss these at the beginning of class next week. Think about how your final output helps our understanding of your observations – with the exception of video and other things that are intentionally projected, digital images should be printed.
+The ultimate format of your recordings is up to you, but should be merged into a cohesive, creative presentation. We will look at and discuss these at the beginning of class next week. Think about how your final output helps our understanding of your observations. With the exception of video and other things that are intentionally projected, digital images should be printed.
 
 As with all our projects, this is meant to be exploratory, as much about how you approach it as it is about what the result is. Be bold and experimental!
   
