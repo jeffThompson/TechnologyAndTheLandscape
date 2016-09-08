@@ -55,7 +55,7 @@ Record three cubic feet
 GPS drawings, field recordings
 
 **Readings**   	
-Selections from *Walking and Mapping* (O’Rourke), *NSA Nature Walks* (Guardian), *The Soundscapes* (Schafer)
+Selections from *NSA Nature Walks* (Guardian), *The Soundscapes* (Schafer)
 
 **Homework**   	
 Document a walk

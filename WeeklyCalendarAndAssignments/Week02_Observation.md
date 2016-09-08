@@ -59,8 +59,7 @@ As with all our projects, this is meant to be exploratory, as much about how you
   
 \* *Above- or below-ground (or a mix) is up to you, but be sure to get permission if you’re going to dig somewhere.*
 
-###READINGS FOR NEXT WEEK   
-* Selections from *Walking and Mapping* (O'Rourke)  
+###READINGS FOR NEXT WEEK  
 * *Bug Spotting: NSA Nature Walks* (Guardian)  
 * *The Soundscape* (Schafer)
 
