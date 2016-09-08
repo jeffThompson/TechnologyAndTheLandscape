@@ -33,10 +33,25 @@ Today's class is about observing, from a variety of perspectives and means. Thin
 
 We have several exercises to explore the park:
 
-* 15 minutes of drawing in your sketchbooks; think about what's close and what's far, drawings of objects and spaces (but no skylines, please!), or using marks to convey the activities and textures you see  
-* Smell walk  
-* Diagram a process you observe  
-* Record the weather  
+**WEEKLY DRAWINGS**  
+"Drawing has always been an absolutely primary way of encountering reality. – Milton Glaser
+
+For the first 15 minutes, draw in your sketchbook anything around you. Think about what's close and what's far, drawings of objects and spaces (but no skylines, please!), or using marks to convey the activities and textures you see. Don’t rush to finish a drawing, even if it isn’t going well. Give yourself plenty and use the process of drawing as a way to let you see.
+
+**SMELL WALK**
+"Smells have layers, like sounds have frequencies. Disentangling them is like trying to follow a song in a room full of loud people – you have to learn to tune out the other noises." – E.E. Georgi
+
+Walk around the park and gather smells (the human nose can discern about one trillion different aromas). How do you describe them? Can smells be categorized together in some way? What is the intensity of the smell? Record the smells in some way here (it can be notes, diagrams, shapes... anything).
+
+This is based on the great work by artist [Kate McLean](http://sensorymaps.com/about) (you can see her detailed ["Smellfie Kit"](http://sensorymaps.com/wordpress/wp-content/uploads/2015/10/Smellwalk_Intro_Kit_%C2%A9KateMcLean_2015.pdf) for more info)  
+
+**DIAGRAM AN OBSERVED PROCESS**
+Create a diagram that describes a process (natural or human-made) you observe in the park. Think about the timescale you’re showing – does the process take a few minutes, the flash of an atomic decay, or geologically significant time? The aesthetic look of the diagram can be anything you want: flowchart, gestural sketch, tracing, or mechanical drawing. 
+
+**RECORD THE WEATHER**  
+"All clouds except a narrow opening at the top of the sky. All cloudy except a narrow opening at the bottom of the sky with others smaller. All cloudy except a narrow opening at the bottom of the sky. All cloudy except a narrow opening at the bottom of the sky. All cloudy. All cloudy. All cloudy. Except one large opening with others smaller." – Lisa Robertson, The Weather
+
+Using any means, record the current weather. This could be a minute snapshot of the current conditions, a time-lapse of the entire visit, or a culmination of 100 years of data.
 
 You can also [download the worksheets](https://github.com/jeffThompson/TechnologyAndTheLandscape/blob/master/Resources/ObservationWorksheets.pdf) describing each of the activities.
 
