@@ -1,4 +1,4 @@
-![Drawing by John Ruskin](https://raw.githubusercontent.com/jeffThompson/TechnologyAndTheLandscape/master/Images/JohnRuskin_ChamonixMerDeGlace.jpg)
+![Drawing by John Ruskin](https://raw.githubusercontent.com/jeffThompson/TechnologyAndTheLandscape/master/Images/Week01/JohnRuskin_ChamonixMerDeGlace.jpg)
 
 WEEK 1: INTRODUCTIONS AND SYLLABUS
 ====
