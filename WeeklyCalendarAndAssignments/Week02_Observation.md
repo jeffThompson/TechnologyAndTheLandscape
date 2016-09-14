@@ -65,7 +65,7 @@ You can also [download the worksheets](https://github.com/jeffThompson/Technolog
 * The [*Bicycle Seismograph*](http://katihyyppa.com/bicycle-seismographs), developed by Kati Hyyppä
 
 ###HOMEWORK  
-Your assignment for next week is to investigate and record a three-cubic-foot location (ie 3-feet wide by 3-feet deep by 3-feet tall*). You can do this in any place you want, using any methodology and materials. Think of yourself as an artistic archeologist, uncovering and recording as many minute details as possible.
+Your assignment for next week is to investigate and record a three-foot cube in any location (ie 3-feet wide by 3-feet deep by 3-feet tall*). You can do this in any place you want, using any methodology and materials. Think of yourself as an artistic archeologist, uncovering and recording as many minute details as possible.
 
 What you record can be literal, such as objects found or temperatures recorded. It can also be things that echo outwards, such as what that place might have been like at different times, or experiential and tied to your experience of the place. Overall, the goal is to observe – look, listen, and record as carefully and meticulously as possible! You don't have to record *everything*, so think about what makes sense to your site and is of interest to you.
 
