@@ -45,7 +45,7 @@ Field visit to Liberty State Park
 Selections from *Grapefruit* (Ono), *The Goose Lake Trail* (Eliasson/Obrist), *An Attempt to Exhaust A Place in Paris* (Perec), and Lenape folklore
 
 **Homework**   	
-Record three cubic feet
+Record a three-feet cube
 
 \- \- \-
 
@@ -55,7 +55,7 @@ Record three cubic feet
 GPS drawings, field recordings
 
 **Readings**   	
-Selections from *NSA Nature Walks* (Guardian), *The Soundscapes* (Schafer)
+*NSA Nature Walks* (Guardian), *The Soundscapes* (Schafer)
 
 **Homework**   	
 Document a walk
