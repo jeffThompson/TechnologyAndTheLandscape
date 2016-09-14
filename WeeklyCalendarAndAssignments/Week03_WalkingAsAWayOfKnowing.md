@@ -3,7 +3,7 @@
 WEEK 3: WALKING AS A WAY OF KNOWING
 ====
 
-"Thus walking as art provided a simple way for me to explore relationships between time, distance, geography and measurement. These walks are recorded in my work in the most appropriate way for each different idea: a photograph, a map, or a text work. All these forms feed the imagination." – Richard Long
+> "Thus walking as art provided a simple way for me to explore relationships between time, distance, geography and measurement. These walks are recorded in my work in the most appropriate way for each different idea: a photograph, a map, or a text work. All these forms feed the imagination." – Richard Long
 
 Today we'll be thinking about walking as a methodology for recording the landscape. Specifically, we're going to make drawings by walking (recorded using GPS) and capture the ambiance of places and transitions between them (by recording audio).
 
@@ -25,7 +25,7 @@ During your walk, pay attention to what's around you (and not your phone!) – 
 ![A National Parks Service sound monitoring station](https://raw.githubusercontent.com/jeffThompson/TechnologyAndTheLandscape/master/Images/Week03/SoundMonitoringInDenaliPark_WinterAndSummer.jpg)
 
 ###IN CLASS: FIELD RECORDINGS
-"Deep listening is listening in every possible way, to everything possible to hear no matter what one is doing. Such intense listening involves the sound of daily life of nature of one's own thoughts as well as musical sounds. Deep listening is a life practice." – [Pauline Oliveros](http://www.arts.rpi.edu/pl/faculty-staff/pauline-oliveros)
+> "Deep listening is listening in every possible way, to everything possible to hear no matter what one is doing. Such intense listening involves the sound of daily life of nature of one's own thoughts as well as musical sounds. Deep listening is a life practice." – [Pauline Oliveros](http://www.arts.rpi.edu/pl/faculty-staff/pauline-oliveros)
 
 We'll spend about an hour making field recordings of audio around campus. In our case, we're not building a library of sound effects or searching for random sounds – instead, our goal is to capture the *soundscape* of a place, the natural audio environment as a cohesive whole. This kind of recording is as much about listening as it is about capturing the sounds.
 
