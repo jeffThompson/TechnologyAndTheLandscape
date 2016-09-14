@@ -16,7 +16,7 @@ We'll return to the idea of walking several times later in the semester: by taki
 ###IN CLASS: GPS DRAWINGS
 Our first activity will be making drawings by walking through Hoboken, tracking our movements by GPS. You can either use our Garmin eTrex GPS units, or an app like [Trails](https://trails.io/en). There are lots of other GPS apps out there, but you'll want one that can output to the standard [GPX file format](https://en.wikipedia.org/wiki/GPS_Exchange_Format), and let you download/email the file to yourself.
 
-GPX files are XML documents containing *tracks* for your walk, in which are *trackpoints*, containing longitude and latitude, elevation, and a timestamp. To visualize your walks, you can either use this application I've made (which will save them as a PDF), or upload it to [OpenStreetMap](http://wiki.openstreetmap.org/wiki/Upload_GPS_tracks) (which will show them overlaid on a map).
+GPX files are XML documents containing *tracks* for your walk, in which are *trackpoints*, containing longitude and latitude, elevation, and a timestamp. To visualize your walks, you can either use [this application](https://github.com/jeffThompson/TechnologyAndTheLandscape/tree/master/Resources/VisualizeGPX) I've made (which will save them as a PDF), or upload it to [OpenStreetMap](http://wiki.openstreetmap.org/wiki/Upload_GPS_tracks) (which will show them overlaid on a map).
 
 While making walks that spell out words or look like bunnies are fun, try something more experimental and unique. Can you set yourself rules for how you walk and see what drawing results? Can you find patterns in the streets and visualize them through your walk?
 
