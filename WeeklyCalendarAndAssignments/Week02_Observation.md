@@ -80,5 +80,5 @@ As with all our projects, this is meant to be exploratory, as much about how you
 * *The Soundscape* (Schafer)
 
 ###BRING 
-Next week we will spend most of the day walking, so please bring comfy shoes, water, sunscreen, etc like this week. We will also be making GPS drawings and field recordings, so please bring your phone charged up and ready. You may want to install a free GPS logging app like [Trails](https://trails.io/en), though we have two GPS units you can use too.
+Next week we will spend most of the day walking, so please bring comfy shoes, water, sunscreen, etc like this week. We will also be making GPS drawings and field recordings, so please bring a pair of headphones (if you have some) and your phone charged up and ready. You may want to install a free GPS logging app like [Trails](https://trails.io/en), though we have two GPS units you can use too.
 
