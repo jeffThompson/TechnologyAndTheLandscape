@@ -49,7 +49,7 @@ Record three cubic feet
 
 \- \- \-
 
-### WEEK 3: WALKING AS A WAY OF KNOWING, ACOUSTIC ECOLOGY    
+### [WEEK 3: WALKING AS A WAY OF KNOWING, ACOUSTIC ECOLOGY](https://github.com/jeffThompson/TechnologyAndTheLandscape/blob/master/WeeklyCalendarAndAssignments/Week03_WalkingAsAWayOfKnowing.md)
 
 **In class**   	
 GPS drawings, field recordings
