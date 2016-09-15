@@ -24,6 +24,8 @@ While making walks that spell out words or look like bunnies are fun, try someth
 
 During your walk, pay attention to what's around you (and not your phone!) – think about your walk, what you see, and how this kind of walking (meant to record) feels different than walking to get somewhere.
 
+*Above: an artistic rendering of the Navstar, one of the earliest GPS satellites*
+
 ![A National Parks Service sound monitoring station](https://raw.githubusercontent.com/jeffThompson/TechnologyAndTheLandscape/master/Images/Week03/SoundMonitoringInDenaliPark_WinterAndSummer.jpg)
 
 ###IN CLASS: FIELD RECORDINGS
@@ -44,6 +46,8 @@ As you record outside, consider these three sound sources defined by musician an
 * Geophony (non-biological sources such as wind)
 
 Also think about the [Field Recording Taxonomy](https://raw.githubusercontent.com/jeffThompson/TechnologyAndTheLandscape/master/Images/Week03/FieldRecordingTaxonomy.gif) we looked at.
+
+*Above: two US National Parks Service autonomous audio recording stations at Denali National Park in Alaska, with accompanying solar panels and weather sensors*
 
 ###RESOURCES  
 * The ["Walking and Art" blog](https://walkart.wordpress.com)  
