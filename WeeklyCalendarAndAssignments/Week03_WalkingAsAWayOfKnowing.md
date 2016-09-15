@@ -45,7 +45,7 @@ As you record outside, consider these three sound sources defined by musician an
 * Biophony (non-human, non-domestic biological sounds)  
 * Geophony (non-biological sources such as wind)
 
-Also think about the [Field Recording Taxonomy](https://raw.githubusercontent.com/jeffThompson/TechnologyAndTheLandscape/master/Images/Week03/FieldRecordingTaxonomy.gif) we looked at.
+Also think about the [Field Recording Taxonomy](https://raw.githubusercontent.com/jeffThompson/TechnologyAndTheLandscape/master/Images/Week03/FieldRecordingTaxonomy.gif) we looked at, and Schafer's keynotes (a refernce point; overall auditory space), signals (foreground sounds), and soundmarks (unique sonic places).
 
 *Above: two US National Parks Service autonomous audio recording stations at Denali National Park in Alaska, with accompanying solar panels and weather sensors*
 
