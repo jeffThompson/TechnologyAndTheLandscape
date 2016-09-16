@@ -53,7 +53,7 @@ Also think about the [Field Recording Taxonomy](https://raw.githubusercontent.co
 * The ["Walking and Art" blog](https://walkart.wordpress.com)  
 * Fact Magazine's excellent ["Beginner's Guide to Field Recording"](http://www.factmag.com/2014/11/18/a-beginners-guide-to-field-recording), which includes the wonderful question: "Can I transmit my listening, unique as it is?"  
 * For archives of field recordings, see the [Borror Laboratory of Bioacoustics](https://blb.osu.edu/archive), Cornell's [Macauly Library of birdsong](http://macaulaylibrary.org), the National Parks Service's [*Yellowstone Sound Library*](https://www.nps.gov/yell/learn/photosmultimedia/soundlibrary.htm), and [Sound Transit](http://archive.turbulence.org/soundtransit/index.html)  
-* The National Parks Service's [*Natural Sounds and Night Skies Division*](https://www.nps.gov/orgs/1050/index.htm), including their [sound measuring resources](https://www.nps.gov/subjects/sound/measure.htm) and their (acoustical monitoring guide)[https://www.nps.gov/subjects/sound/upload/NSNSDTrainingManual.pdf]  
+* The National Parks Service's [*Natural Sounds and Night Skies Division*](https://www.nps.gov/orgs/1050/index.htm), including their [sound measuring resources](https://www.nps.gov/subjects/sound/measure.htm) and their [acoustical monitoring guide](https://www.nps.gov/subjects/sound/upload/NSNSDTrainingManual.pdf)  
 * For technical info and readings about field recording, see [phonography.org](http://www.phonography.org), [Wild Sanctuary](http://www.wildsanctuary.com)  
 * A [brief history of GPS technology](http://www.pcworld.com/article/2000276/a-brief-history-of-gps.html), and an [interesting piece on GPS vulnerabilities](http://www.rand.org/pubs/monograph_reports/MR614.html) from RAND Corporation in 1995
 * [GPX file format](https://en.wikipedia.org/wiki/GPS_Exchange_Format), the standard format used by our Garmin GPS units (and a [list of other common formats](http://wiki.openstreetmap.org/wiki/List_of_GPS_trace_file_formats))  
@@ -68,6 +68,7 @@ Also think about the [Field Recording Taxonomy](https://raw.githubusercontent.co
 * Lotte Geeven's [*The Sound of the Earth*](http://www.geeven.nl/post/67567627667), recording audio of the deepest hole on earth (you can listen to the project [here](https://vimeo.com/80266870))  
 * Janet Cardiff's sound walks (a reverse of what we're doing today), such as [*Her Long Black Hair*](http://www.cardiffmiller.com/artworks/walks/longhair.html)  
 * William Pope.L's [*The Great White Way*](http://www.brooklynrail.org/2003/06/artseen/white-way), a 22-mile crawl up Broadway  
+* Leila Nadir and Cary Peppermint's [*Indeterminite Hikes project*](http://www.ecoarttech.net/project/indeterminate-hike)  
 * Vito Acconci's [*Following Piece*](http://www.metmuseum.org/art/collection/search/283737)  
 * Christina Kubisch's [*Electrical Walks*](http://www.christinakubisch.de/en/works/electrical_walks), documenting EMF in cities (listen to [some excerpts](https://vimeo.com/54846163))  
 
