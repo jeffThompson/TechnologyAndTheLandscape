@@ -62,7 +62,7 @@ Document a walk
 
 \- \- \-
 
-### WEEK 4: MAPPING AND THE TECHNOLOGICAL PERSPECTIVE    
+### [WEEK 4: MAPPING AND THE TECHNOLOGICAL PERSPECTIVE](https://github.com/jeffThompson/TechnologyAndTheLandscape/blob/master/WeeklyCalendarAndAssignments/Week04_Mapping.md)
 
 **In class**   	
 Exploring mapping techniques
