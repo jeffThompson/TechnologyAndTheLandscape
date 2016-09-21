@@ -28,6 +28,10 @@ Feel free to try out some other mapping ideas if you have them, or to record add
 **MAGNETIC DECLINATION**  
 Magnetic north isn't at the north pole, and this difference is called *magnetic declination*. With the GPS coordinates of the Morton building on 22 September 2016, declination is 12.93ºW (±0.36º) and changes by 0.03ºE per year (via [NOAA's calculator](http://www.ngdc.noaa.gov/geomag-web/#declination)). To use this, shift your compass readings by 12.93º to the west.
 
+![How the ARGUS-IS system sees the world](https://raw.githubusercontent.com/jeffThompson/TechnologyAndTheLandscape/master/Images/Week04/ARGUS-IS_OverQuanticoVA_2009.jpg)
+
+*How the [ARGUS-IS](https://en.wikipedia.org/wiki/ARGUS-IS) system sees the world, here over Quantico, Virginia in 2009*
+
 ###RESOURCES  
 * A [short history of mapmaking](https://www.math.rutgers.edu/~cherlin/History/Papers2000/sullivan.html)  
 * Two discussions of historical surveying techniques ([1](https://www.e-education.psu.edu/geog160/node/1926) and [2](http://www.rgs.org/nr/rdonlyres/17dd051f-30b8-45a2-b18f-d7a35130451e/0/chapter10traditionalsurveying.pdf)) and a [wonderful photo collection of distance measuring tools](http://celebrating200years.noaa.gov/distance_tools/theb1139.html) from NOAA  
@@ -58,6 +62,7 @@ Magnetic north isn't at the north pole, and this difference is called *magnetic 
 * US states [divided by watershed](http://io9.gizmodo.com/this-is-what-the-united-states-might-have-looked-like-1470019663)  
 * Artist Nina Katchadourian's map cutouts, including [roads in the US](http://www.ninakatchadourian.com/maps/mapdissection.php), [mirroring landforms](http://www.ninakatchadourian.com/maps/pathologies.php), and [thousands of unnamed islands in Finland](http://www.ninakatchadourian.com/maps/finlandislands.php)  
 * Public Lab's citizen science initiatives, including [balloon and kite mapping](https://publiclab.org/wiki/balloon-mapping), [pole mapping](https://publiclab.org/wiki/pole-mapping), and [many more](https://publiclab.org/tools)  
+* [ARGUS-IS](https://en.wikipedia.org/wiki/ARGUS-IS), a 1.8-gigapixel camera drone, and its successor the [Gorgon Stare](https://en.wikipedia.org/wiki/Gorgon_Stare)  
 * [Documentary on Bellerby & Co.](https://vimeo.com/63511505), a globe-making company based in London  
 * *Design Noir: Secret Life Of Electric Objects* by Anthony Dunne and Fiona Raby (in the Suggested Reading section)  
 
@@ -78,8 +83,8 @@ As you consider and what to show, it may be helpful to think about these categor
 * Polygon: areas sharing boundaries (ex: border between two states)  
 * Route: a line sharing some segments with another line (ex: two roads that merge for a time, then separate again)  
 * Region: areas overlapping with other areas (ex: city region inside a county region)  
-* Node: a line that shares an endpoint with a point (ex: road leading to a building)  
-* Point Events: a point that shares a vertex with a line (ex: exits along a freeway)  
+* Node: a line that shares an endpoint with a point (ex: a road that hits a city)  
+* Point Events: a point that shares a vertex with a line (ex: tributary rivers that lead into a larger river)  
 
 ###READINGS FOR NEXT WEEK  
 * *Haikus* (Basho)  
