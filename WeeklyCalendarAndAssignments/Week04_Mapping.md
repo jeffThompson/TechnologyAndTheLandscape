@@ -49,6 +49,7 @@ Magnetic north isn't at the north pole, and this difference is called *magnetic 
 * Traditional and current techniques for shading relief maps, including the wonderful [Wenschow technique](http://www.reliefshading.com/techniques/wenschow)  
 
 ###PROJECTS SHOWN  
+* A video from Computerphile on [how GPS works](https://youtu.be/EUrU1y5is3Y), with [another video](https://youtu.be/3tmo23gZBf4) on more details  
 * [Stick charts](https://en.wikipedia.org/wiki/Marshall_Islands_stick_chart) from the Marshall Islands  
 * Buckminster Fuller's [*Dymaxion map projection*](https://en.wikipedia.org/wiki/Dymaxion_map), which attempts to minimize distortion; a site with [lots more variations on the design](http://www.progonos.com/furuti/MapProj/Normal/ProjPoly/projPoly3.html), though Fuller's design is technically copyrighted 😕  
 * A [printable Dymaxion version](https://www.jasondavies.com/maps/airocean) by Jason Davies, and [other printable maps on polyhedron](http://www.progonos.com/furuti/MapProj/Normal/ProjPoly/Foldout/foldout.html)  
