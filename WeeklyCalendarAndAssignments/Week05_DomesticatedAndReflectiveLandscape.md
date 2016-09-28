@@ -17,7 +17,7 @@ Of all my moral being."
 
 So far this semester, we've been thinking mostly about wild landscapes with the occasional human intervention. But this week, we'll be considering landscapes that are places for contemplation and awe, and the historical (and often contemporary) view that the natural world is an untidy place to be tamed.
 
-This post, from [Poets.org](https://www.poets.org/poetsorg/text/nature-poetry-poets-glossary) puts it well:
+As we have seen already, views about nature are constructed by context, historical period, and culture. This post, from [Poets.org](https://www.poets.org/poetsorg/text/nature-poetry-poets-glossary) puts it well:
 
 > "Our concepts of nature are relative, historically determined. The nature poem is affected by ideology, by literary conventions as well as social and cultural ideas. Raymond Williams contends, 'Nature is perhaps the most complex word in the language.' The term nature is itself contested now because it seems to assume an oversimplified relationship between the human and the environment. 'Nature' has been the site of so many different naïve symbolisms, such as purity, escape, and savagery."
 
