@@ -22,7 +22,7 @@ If you have a reading, resource, tutorial, artwork, or something else to add, pl
 ***
  
 ## COURSE CALENDAR
-Readings are listed for the days they are due. More details are in the "Weekly Calendar and Assignments" folder.
+More details are in the "Weekly Calendar and Assignments" folder.
 
 \- \- \-
 
@@ -41,7 +41,7 @@ Gather supplies
 **In class**   	
 Field visit to Liberty State Park
 
-**Readings**   	
+**Readings for this week**   	
 Selections from *Grapefruit* (Ono), *The Goose Lake Trail* (Eliasson/Obrist), *An Attempt to Exhaust A Place in Paris* (Perec), and Lenape folklore
 
 **Homework**   	
@@ -54,7 +54,7 @@ Record a three-feet cube
 **In class**   	
 GPS drawings, field recordings
 
-**Readings**   	
+**Readings for this week**  
 *NSA Nature Walks* (Guardian), *The Soundscapes* (Schafer)
 
 **Homework**   	
@@ -67,7 +67,7 @@ Document a walk
 **In class**   	
 Exploring mapping techniques
 
-**Readings**   	
+**Readings for this week**   	
 Selections from *Gustav Klimt Landscapes* and *Experimental Geography* (Paglen)
 
 **Homework**   	
@@ -75,12 +75,12 @@ Create a map of your surroundings
 
 \- \- \-
 
-### WEEK 5: THE GRAND TOUR, THE DOMESTICATED AND REFLECTIVE LANDSCAPE    
+### [WEEK 5: THE GRAND TOUR, THE DOMESTICATED AND REFLECTIVE LANDSCAPE](https://github.com/jeffThompson/TechnologyAndTheLandscape/blob/master/WeeklyCalendarAndAssignments/Week05_DomesticatedAndReflectiveLandscape.md)  
 
 **In class**   	
 Nature walk in Minecraft
 
-**Readings**   	
+**Readings for this week**   	
 Selections from *Birth of the Modern* (Johnson); Frost, Basho, Snyder, and Collins
 
 **Homework**   	
@@ -93,7 +93,7 @@ Finish Minecraft sketches and poems, begin research paper bibliography and gathe
 **In class**   	
 Print/bind Minecraft chapbooks, walking tour in Google Maps
 
-**Readings**   	
+**Readings for this week**   	
 Selections from *Endurance*, *What It's Like To Be An Animal* (New Yorker)
 
 **Homework**   	
@@ -106,7 +106,7 @@ Document walk in Google maps in a place you’ve never been; continue research p
 **In class**   	
 Field visit to Central Park
 
-**Readings**   	
+**Readings for this week**   	
 Selections on Central Park/Olmsted
 
 **Homework**   	
@@ -119,7 +119,7 @@ Draft research papers due
 **In class**   	
 Field visit to Meadowlands
 
-**Readings**   	
+**Readings for this week**   	
 Selections from Robert Smithson
 
 **Homework**   	
@@ -132,7 +132,7 @@ Research papers due
 **In class**   	
 Dérive in NYC, 3D scanning/photogrammetry demo
 
-**Readings**   	
+**Readings for this week**   	
 Selections from *Situationist International Anthology* (Knabb), *Drone Shadow Handbook* (Bridle), *Sonic Warfare* (Goodman)
 
 **Homework**   	
@@ -145,7 +145,7 @@ Recording spaces and objects
 **In class**   	
 Visit sites of internet infrastructure in NYC
 
-**Readings**   	
+**Readings for this week**   	
 Selections from *Tubes* (Blum), *Networks of New York* (Burrington), *Data Space* (CLOG)
 
 **Homework**   	
@@ -158,7 +158,7 @@ Write final project proposal
 **In class**   	
 Selections from *Blade Runner*
 
-**Readings**   	
+**Readings for this week**   	
 Selections from *Vermillion Sands* (Ballard), *Our Arrival* (Parrish)
 
 **Homework**   	
@@ -171,7 +171,7 @@ Work on final project
 **In class**   	
 Videogame play-throughs, make something from the perspective of a data buoy
 
-**Readings**   	
+**Readings for this week**   	
 Selections from *Ready Player One*, articles on *Dwarf Fortress* and *No Man’s Sky*
 
 **Homework**   	
