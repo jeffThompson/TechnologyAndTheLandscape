@@ -15,7 +15,7 @@ The guide, the guardian of my heart, and soul
 Of all my moral being."  
 – William Wordsworth, *Titern Abbey*
 
-So far this semester, we've been thinking mostly about wild landscapes with the occasional human intervention. But this week, we'll be considering landscapes that are places for contemplation and awe, and the view that the natural world is an untidy places to be tamed.
+So far this semester, we've been thinking mostly about wild landscapes with the occasional human intervention. But this week, we'll be considering landscapes that are places for contemplation and awe, and the historical (and often contemporary) view that the natural world is an untidy place to be tamed.
 
 This post, from [Poets.org](https://www.poets.org/poetsorg/text/nature-poetry-poets-glossary) puts it well:
 
