@@ -190,5 +190,6 @@ Work on final project and documentation
 \- \- \-
 
 **FINAL EXAM PERIOD**  
-(Date TBA, please save in your calendar)  
+Tuesday, December 20 from 9.00–12.00  
+([Location says](https://www.stevens.edu/sites/stevens_edu/files/files/registrar/exam/2016F%20Final%20Exam%20Schedule.pdf) BC-204 but we'll meet in the VA&T Lab)  
 Final critique
