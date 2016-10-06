@@ -19,7 +19,7 @@ I encourage you to take all assignments beyond the minimum requirements, but her
 * Citing at least 10 sources, 5 of which must be offline (ie journal articles, books, etc) – following citations in these texts can be a great way to find new material; you will also be encouraged to add more casual online citations in your final text (links to Wikipedia articles on key terms, for example)  
 * At least 10 visual resources (photos, drawings, videos, etc) with citations  
 
-#### TIMELINE
+#### TIMELINE  
 
 * Oct 6: Topic, bibliography, and visual material due  
 * Oct 13: Continue to work on project  
