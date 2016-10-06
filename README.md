@@ -84,11 +84,11 @@ Nature walk in Minecraft
 Selections from *Birth of the Modern* (Johnson); Frost, Basho, Snyder, and Collins
 
 **Homework**   	
-Finish Minecraft sketches and poems, begin research paper bibliography and gather visual material
+Finish Minecraft sketches and poems, begin research project bibliography and gather visual material
 
 \- \- \-
 
-### WEEK 6: EXPLORATION AND VISITING PLACES WE’VE NEVER BEEN    
+### [WEEK 6: EXPLORATION AND VISITING PLACES WE’VE NEVER BEEN](https://github.com/jeffThompson/TechnologyAndTheLandscape/blob/master/WeeklyCalendarAndAssignments/Week06_Exploration.md)  
 
 **In class**   	
 Print/bind Minecraft chapbooks, walking tour in Google Maps
@@ -97,7 +97,7 @@ Print/bind Minecraft chapbooks, walking tour in Google Maps
 Selections from *Endurance*, *What It's Like To Be An Animal* (New Yorker)
 
 **Homework**   	
-Document walk in Google maps in a place you’ve never been; continue research paper
+Continue work on research project
 
 \- \- \-
 
@@ -107,10 +107,10 @@ Document walk in Google maps in a place you’ve never been; continue research p
 Field visit to Central Park
 
 **Readings for this week**   	
-Selections on Central Park/Olmsted
+[ None, work on research project ]
 
 **Homework**   	
-Draft research papers due
+Continue work on research project (draft projects due next week)
 
 \- \- \-
 
@@ -123,7 +123,7 @@ Field visit to Meadowlands
 Selections from Robert Smithson
 
 **Homework**   	
-Research papers due
+Finish research project for next week
 
 \- \- \-
 
