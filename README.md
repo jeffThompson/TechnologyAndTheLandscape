@@ -101,7 +101,7 @@ Continue work on research project
 
 \- \- \-
 
-### [WEEK 7: ARTIFICIAL LANDSCAPES, FREDERICK LAW OLMSTED]((https://github.com/jeffThompson/TechnologyAndTheLandscape/blob/master/WeeklyCalendarAndAssignments/Week07_ArtificialLandscapes.md)  
+### [WEEK 7: ARTIFICIAL LANDSCAPES, FREDERICK LAW OLMSTED](https://github.com/jeffThompson/TechnologyAndTheLandscape/blob/master/WeeklyCalendarAndAssignments/Week07_ArtificialLandscapes.md)  
 
 **In class**   	
 Field visit to Central Park
