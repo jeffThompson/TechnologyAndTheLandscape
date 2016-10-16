@@ -101,7 +101,7 @@ Continue work on research project
 
 \- \- \-
 
-### WEEK 7: ARTIFICIAL LANDSCAPES, FREDERICK LAW OLMSTED    
+### [WEEK 7: ARTIFICIAL LANDSCAPES, FREDERICK LAW OLMSTED]((https://github.com/jeffThompson/TechnologyAndTheLandscape/blob/master/WeeklyCalendarAndAssignments/Week07_ArtificialLandscapes.md)  
 
 **In class**   	
 Field visit to Central Park
@@ -114,29 +114,29 @@ Continue work on research project (draft projects due next week)
 
 \- \- \-
 
-### WEEK 8: SUBURBAN AND INDUSTRIAL LANDSCAPES    
+### WEEK 8: PARK DESIGN PROJECT    
 
 **In class**   	
-Field visit to Meadowlands
+Site selection and ideation for park project
 
 **Readings for this week**   	
-Selections from Robert Smithson
+[ None, work on research project ]
 
 **Homework**   	
 Finish research project for next week
 
 \- \- \-
 
-### WEEK 9: EXPLORING THE URBAN LANDSCAPE, CAMERAS, AND TECHNOLOGY OF CAPTURE    
+### WEEK 9: EXPLORING THE URBAN LANDSCAPE  
 
 **In class**   	
-Dérive in NYC, 3D scanning/photogrammetry demo
+Dérive in NYC
 
 **Readings for this week**   	
 Selections from *Situationist International Anthology* (Knabb), *Drone Shadow Handbook* (Bridle), *Sonic Warfare* (Goodman)
 
 **Homework**   	
-Recording spaces and objects
+Park Design project: design brief
 
 \- \- \-
 
@@ -149,7 +149,7 @@ Visit sites of internet infrastructure in NYC
 Selections from *Tubes* (Blum), *Networks of New York* (Burrington), *Data Space* (CLOG)
 
 **Homework**   	
-Write final project proposal
+Finish Park Design project proposal, write final project proposal
 
 \- \- \-
 
