@@ -40,6 +40,10 @@ Some Japanese stab binding tutorials:
 * [Hardcover stab bound book (video demo)](https://www.youtube.com/watch?v=s9P07WAbYHs)  
 * A video about the [Domesday project](https://youtu.be/VLh5LR0Kf1I), a pre-Google Street View project in the UK  
 
+###PROJECTS SHOWN
+
+* *[Terrapattern](http://www.terrapattern.com)*, a project using machine learning to search satellite imagery  
+
 ###HOMEWORK  
 This week, you will continue work on your [Research Project](https://github.com/jeffThompson/TechnologyAndTheLandscape/blob/master/MidtermResearchProjectAssignment.md), starting a rough draft of your post. This draft is due in two weeks (Oct 20), but please use this week to start writing, giving yourself enough time to do further research as needed.
 
