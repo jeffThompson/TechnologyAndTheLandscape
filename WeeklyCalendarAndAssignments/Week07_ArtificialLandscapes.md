@@ -13,7 +13,9 @@ Central Park too covers a dark history: thousands of poor immigrant and African 
 
 ![A giant fake rock, concealing a cell tower](https://raw.githubusercontent.com/jeffThompson/TechnologyAndTheLandscape/master/Images/Week07/GiantFakeRockVeteranMemorialConcealingCellTower_CantonMass.jpg)
 
-###PROJECTS SHOWN  
+*Above: a giant fake rock, concealing a cell tower.*
+
+###PROJECTS/THINGS SHOWN  
 Places/topics related to Central Park and artificial landscapes:
 
 * Terraforming experiments such as [Biosphere](https://en.wikipedia.org/wiki/Biosphere_2) and the European Space Agency's project [MELiSSA](https://en.wikipedia.org/wiki/MELiSSA)  
@@ -21,10 +23,8 @@ Places/topics related to Central Park and artificial landscapes:
 * [Living root bridges](https://en.wikipedia.org/wiki/Living_root_bridges) in India and other places  
 * The practice of [Bonsai](https://en.wikipedia.org/wiki/Bonsai) and its [various styles](https://en.wikipedia.org/wiki/Bonsai_styles)  
 * Similarly, John Krubsack's [chair grown from a single tree](https://en.wikipedia.org/wiki/John_Krubsack)  
-* Cell phone towers made to look like trees (such as [these](http://treescapes.com/wireless-concealment/#25021-wireless-concealment/24907), [these](http://www.environmentalintegration.com/cell-tower-concealment.htm), and [these](http://utilitycamo.com/products/refurbishment)  
+* Cell phone towers made to look like trees (such as [these](http://treescapes.com/wireless-concealment/#25021-wireless-concealment/24907), [these](http://www.environmentalintegration.com/cell-tower-concealment.htm), and [these](http://utilitycamo.com/products/refurbishment))  
 * Aircraft carriers, massive city-scale structures on moving ships  
-
-*Above: a giant fake rock, concealing a cell tower.*
 
 ###IN CLASS  
 This week we'll be visiting Central Park – we'll meet in the classroom and head to the PATH train. If you want to meet us there, please just let me know ahead of time. We'll walk around the park and make drawings and observations in preparation for our upcoming Park Design project.
