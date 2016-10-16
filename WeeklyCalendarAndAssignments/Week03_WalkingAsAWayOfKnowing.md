@@ -31,6 +31,8 @@ During your walk, pay attention to what's around you (and not your phone!) – 
 ###IN CLASS: FIELD RECORDINGS
 > "Deep listening is listening in every possible way, to everything possible to hear no matter what one is doing. Such intense listening involves the sound of daily life of nature of one's own thoughts as well as musical sounds. Deep listening is a life practice." – [Pauline Oliveros](http://www.arts.rpi.edu/pl/faculty-staff/pauline-oliveros)
 
+> "Recording, to me, is most like landscape painting. A landscape artist sees a scene from a first-person point of view. In other words, the observer (the artist) is inseparable from the object that is being observed." – Toshiya Tsunoda
+
 We'll spend about an hour making field recordings of audio around campus. In our case, we're not building a library of sound effects or searching for random sounds – instead, our goal is to capture the *soundscape* of a place, the natural audio environment as a cohesive whole. This kind of recording is as much about listening as it is about capturing the sounds.
 
 **STILL RECORDING**  
