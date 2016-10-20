@@ -11,11 +11,11 @@ Intro text should go here... Lorem ipsum dolor sit amet, consectetur adipiscing 
 
 ## SECTION TITLE  
 
-As Proust points out in his book [*Markdown Citations Are My Friend*](#1), "Donec ex mi, vulputate quis lorem ac, dictum eleifend libero. Praesent dapibus, libero at efficitur auctor, libero odio euismod tellus, a vestibulum massa neque sed quam. Etiam varius vel ante non porttitor."[\[1\]](#1)
+As Proust points out in his book [*Markdown Citations Are My Friend*](#1), "Donec ex mi, vulputate quis lorem ac, dictum eleifend libero. Praesent dapibus, libero at efficitur auctor, libero odio euismod tellus, a vestibulum massa neque sed quam. Etiam varius vel ante non porttitor." [\[1\]](#1)
 
 Aliquam tempor placerat justo vel ultricies. Vestibulum eget cursus sapien, in convallis tellus. Morbi malesuada non lacus nec porta. Maecenas pulvinar rhoncus nisi, eget lobortis sem accumsan ut. Vestibulum malesuada ipsum sit amet vulputate dapibus. Donec mauris ipsum, luctus bibendum turpis vitae, ultricies bibendum ligula. Donec finibus mi ut nunc ornare, vel viverra lorem scelerisque. Mauris tellus enim, mollis placerat egestas sed, sagittis id tortor. Quisque ultricies in tortor at gravida. Mauris sem nisi, egestas nec orci mollis, rhoncus egestas lectus. Nullam pharetra ipsum tincidunt purus posuere, sed imperdiet ante sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
 
-> This is a really nicely formatted quote. – Homer Simpson
+> This is a really nicely formatted quote. This is best for longer bits of text that don't fit well inline. – Homer Simpson
 
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec nunc justo, ultrices id congue ac, dapibus nec ex. Suspendisse potenti. Nullam eros nunc, placerat non nulla interdum, ornare condimentum nulla. Sed laoreet, lacus eget suscipit commodo, lectus erat pretium tellus, auctor sollicitudin est felis ut nunc. Ut non lectus sagittis quam tempus consequat ut ut risus. In lobortis risus sed augue volutpat imperdiet. Phasellus pharetra tristique mi sed accumsan. Nullam finibus quam vel ligula varius lobortis.
 
@@ -25,15 +25,15 @@ Phasellus pharetra pharetra cursus. Nulla facilisi. Nullam suscipit dui magna, i
 
 ![Image alt text](http://www.sideshowandsyrana.com/wp-content/uploads/2013/03/sc-mac.png)
 
-*Caption for image in italics – include info and, if you have them, links to their source.*
+*Caption for image in italics.*
 
 Cras nec nunc sem. Mauris fringilla, leo ac laoreet porttitor, sapien nisi porta sapien, at blandit lectus eros vel sem. Donec efficitur odio eget purus tristique, in volutpat nisl luctus. Vivamus mi ligula, aliquam nec efficitur nec, sagittis in felis. Sed vestibulum ipsum nec vehicula rhoncus. Sed quis tortor sit amet arcu iaculis laoreet. Nullam sit amet vulputate neque. Sed efficitur ligula ut quam pellentesque faucibus. Proin aliquam felis id nisi condimentum, ac ultrices ex euismod. Duis et sagittis quam. Nunc vel dolor fringilla, rhoncus tellus id, malesuada libero.
 
 ## BIBLIOGRAPHY
 
-<a name="1"></a>Proust, Marcel. *Markdown Citations Are My Friend*. New York: Fake Books LLC, 2012. Print.  
+1. <a name="1"></a>Proust, Marcel. *Markdown Citations Are My Friend*. New York: Fake Books LLC, 2012. Print.  
 Optional annotations or notes for this text, if you want them.
 
-<a name="2"></a>Manaugh, Geoff. *A Burglar's Guide To The City*. New York: Farrar, Straus, and Giroux, 2016. Print.    
+2. <a name="2"></a>Manaugh, Geoff. *A Burglar's Guide To The City*. New York: Farrar, Straus, and Giroux, 2016. Print.    
 Historical examples of techology to burglar-proof homes.
 
