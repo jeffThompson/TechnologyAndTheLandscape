@@ -27,7 +27,9 @@ I encourage you to take all assignments beyond the minimum requirements, but her
 * Oct 27: Final draft due, publish online in class  
 
 ####OCT 27: FINAL DRAFT
-For next week, please prepare the final draft of your research project. You should make changes based on the feedback you got, tighten up your argument and language, and decide what images you want to use and where they should go. We'll have time in class next week to format them as [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and publish them to Github, but you're welcome to get started this week if you want (you can look at [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for formatting examples.)
+For next week, please prepare the final draft of your research project. You should make changes based on the feedback you got, tighten up your argument and language, and decide what images you want to use and where they should go.
+
+Here's the [template we're going to use](https://github.com/jeffThompson/TechnologyAndTheLandscape/blob/master/MidtermResearchProject_TEMPLATE.md) for your projects – you can download it and start filling it in, but we'll have time in class next week to do this too. You can look at [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for formatting more examples.
 
 A note on images: JPGs are preferred, and will be displayed full-width automatically. We can put nice captions below them, so think about what those should be too.
 

@@ -13,10 +13,11 @@ Intro text should go here... Lorem ipsum dolor sit amet, consectetur adipiscing 
 
 As Proust points out in his book [*Markdown Citations Are My Friend*](#1), "Donec ex mi, vulputate quis lorem ac, dictum eleifend libero. Praesent dapibus, libero at efficitur auctor, libero odio euismod tellus, a vestibulum massa neque sed quam. Etiam varius vel ante non porttitor." [\[1\]](#1)
 
-Aliquam tempor placerat justo vel ultricies. Vestibulum eget cursus sapien, in convallis tellus. Morbi malesuada non lacus nec porta. Maecenas pulvinar rhoncus nisi, eget lobortis sem accumsan ut. Vestibulum malesuada ipsum sit amet vulputate dapibus. Donec mauris ipsum, luctus bibendum turpis vitae, ultricies bibendum ligula. Donec finibus mi ut nunc ornare, vel viverra lorem scelerisque. Mauris tellus enim, mollis placerat egestas sed, sagittis id tortor. Quisque ultricies in tortor at gravida. Mauris sem nisi, egestas nec orci mollis, rhoncus egestas lectus. Nullam pharetra ipsum tincidunt purus posuere, sed imperdiet ante sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+Aliquam tempor placerat justo vel ultricies. Vestibulum eget cursus sapien, in convallis tellus. Morbi malesuada non lacus nec porta. Maecenas pulvinar rhoncus nisi, eget lobortis sem accumsan ut. Vestibulum malesuada ipsum sit amet vulputate dapibus. Donec mauris ipsum, luctus bibendum turpis vitae, ultricies bibendum ligula. Donec finibus mi ut nunc ornare, vel viverra lorem scelerisque. Mauris tellus enim, mollis placerat egestas sed, sagittis id tortor. Quisque ultricies in tortor at gravida. Mauris sem nisi, egestas nec orci mollis, rhoncus egestas lectus. Nullam pharetra ipsum tincidunt purus posuere, sed imperdiet ante sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
 
-> This is a really nicely formatted quote. This is best for longer bits of text that don't fit well inline.  
-– Homer Simpson
+As Homer Simpson suggests:
+
+> This is a really nicely formatted quote. This is best for longer bits of text that don't fit well inline. 
 
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec nunc justo, ultrices id congue ac, dapibus nec ex. Suspendisse potenti. Nullam eros nunc, placerat non nulla interdum, ornare condimentum nulla. Sed laoreet, lacus eget suscipit commodo, lectus erat pretium tellus, auctor sollicitudin est felis ut nunc. Ut non lectus sagittis quam tempus consequat ut ut risus. In lobortis risus sed augue volutpat imperdiet. Phasellus pharetra tristique mi sed accumsan. Nullam finibus quam vel ligula varius lobortis.
 
