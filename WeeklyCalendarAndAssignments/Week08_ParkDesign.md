@@ -5,7 +5,7 @@ WEEK 8: PARK DESIGN
 
 This week, we'll start a multi-week research/design project, creating a proposal for a new park. You'll pick a site, research it, create drawings and descriptions of your park, and create a final proposal that we'll hang in the hallway as an exhibition. Your parks need not be realistic or in useful locations, but if that's the case, your proposed park should address these things. Whatever kind of park you want to build, the main focus should be a park not only in, but *about* the landscape and our experience of it. 
 
-**Main design challenges**  
+**MAIN DESIGN CHALLENGES**  
 Your project pitch should address these big design challenges, along with any other considerations relevant to your park and site:
 
 1. How does your park interact, contrast, subvert, or amplify its unique site?  
