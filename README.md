@@ -114,7 +114,7 @@ Continue work on research project (draft projects due next week)
 
 \- \- \-
 
-### WEEK 8: PARK DESIGN PROJECT    
+### [WEEK 8: PARK DESIGN PROJECT](https://github.com/jeffThompson/TechnologyAndTheLandscape/blob/master/WeeklyCalendarAndAssignments/Week08_ParkDesign.md)  
 
 **In class**   	
 Site selection and ideation for park project
