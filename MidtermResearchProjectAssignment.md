@@ -26,6 +26,13 @@ I encourage you to take all assignments beyond the minimum requirements, but her
 * Oct 20: Draft of research project due  
 * Oct 27: Final draft due, publish online in class  
 
+####OCT 27: FINAL DRAFT
+For next week, please prepare the final draft of your research project. You should make changes based on the feedback you got, tighten up your argument and language, and decide what images you want to use and where they should go. We'll have time in class next week to format them as [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and publish them to Github, but you're welcome to get started this week if you want (you can look at [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for formatting examples.)
+
+A note on images: JPGs are preferred, and will be displayed full-width automatically. We can put nice captions below them, so think about what those should be too.
+
+Please bring your final version as a file and your laptop to class next week.
+
 #### OCT 6: TOPIC, BIBLIOGRAPHY, AND VISUAL MATERIAL  
 The first step in this project will be gathering sources for your research, both written and visual. Please prepare a bibliography of written texts you think you may use. This should include the citation, as well as a one-sentence annotation on how you think the source might fit. Citations should be in MLA format – you can use [this online generator](http://www.citationmachine.net/mla/cite-a-book) to make things easier.
 
