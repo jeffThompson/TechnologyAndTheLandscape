@@ -1,13 +1,13 @@
-![Image alt text](https://raw.githubusercontent.com/jeffThompson/TechnologyAndTheLandscape/master/Images/Week02/CerberusSwimmerDetectionSonar.jpg)
+![Image alt text here for the header image – ideally these should be 900px or larger to show up full-width](https://raw.githubusercontent.com/jeffThompson/TechnologyAndTheLandscape/master/Images/Week02/CerberusSwimmerDetectionSonar.jpg)
 
 # PROJECT TITLE
 
 Your name  
-[URL to your website, if you want](http://www.jeffreythompson.org)
+[URL to your website, Twitter, etc, if you want](http://www.jeffreythompson.org)
 
 Intro text should go here... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae urna accumsan, molestie ipsum ut, molestie leo. Curabitur ultrices imperdiet magna, ut condimentum justo rhoncus faucibus. Donec blandit enim vitae urna posuere, non tincidunt libero sodales. Proin fermentum tristique orci sed eleifend. Nullam pretium eros quis orci interdum sollicitudin. Fusce lectus nisl, blandit at eros efficitur, lobortis hendrerit arcu. Ut mollis leo elit, vitae sodales mauris placerat vel. Aenean suscipit malesuada dolor, a interdum tortor elementum et. Sed lobortis a mi nec tristique. Maecenas quis viverra tortor, at vulputate diam. 
 
-*Caption for image in italics after intro – include description of the image, who made it, and, if you have them, links to their source.*
+*Caption for top image in italics after intro – include description of the image, who made it, and, if you have them, links to their source.*
 
 ## SECTION TITLE  
 
@@ -15,7 +15,8 @@ As Proust points out in his book [*Markdown Citations Are My Friend*](#1), "Done
 
 Aliquam tempor placerat justo vel ultricies. Vestibulum eget cursus sapien, in convallis tellus. Morbi malesuada non lacus nec porta. Maecenas pulvinar rhoncus nisi, eget lobortis sem accumsan ut. Vestibulum malesuada ipsum sit amet vulputate dapibus. Donec mauris ipsum, luctus bibendum turpis vitae, ultricies bibendum ligula. Donec finibus mi ut nunc ornare, vel viverra lorem scelerisque. Mauris tellus enim, mollis placerat egestas sed, sagittis id tortor. Quisque ultricies in tortor at gravida. Mauris sem nisi, egestas nec orci mollis, rhoncus egestas lectus. Nullam pharetra ipsum tincidunt purus posuere, sed imperdiet ante sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
 
-> This is a really nicely formatted quote. This is best for longer bits of text that don't fit well inline. – Homer Simpson
+> This is a really nicely formatted quote. This is best for longer bits of text that don't fit well inline.  
+– Homer Simpson
 
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec nunc justo, ultrices id congue ac, dapibus nec ex. Suspendisse potenti. Nullam eros nunc, placerat non nulla interdum, ornare condimentum nulla. Sed laoreet, lacus eget suscipit commodo, lectus erat pretium tellus, auctor sollicitudin est felis ut nunc. Ut non lectus sagittis quam tempus consequat ut ut risus. In lobortis risus sed augue volutpat imperdiet. Phasellus pharetra tristique mi sed accumsan. Nullam finibus quam vel ligula varius lobortis.
 
