@@ -23,7 +23,7 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 
 Phasellus pharetra pharetra cursus. Nulla facilisi. Nullam suscipit dui magna, id dictum quam volutpat id. Maecenas quis vestibulum turpis, sed tincidunt ex. Nam sit amet mollis felis. Quisque dapibus suscipit est, ut consectetur libero lobortis vel. Integer vestibulum pellentesque tellus, sed tristique dolor suscipit id. Donec vestibulum dui ut sem mollis, eget condimentum purus aliquam. Curabitur vestibulum metus eget porttitor porttitor. Nullam viverra, tellus et blandit sollicitudin, velit lectus sagittis sapien, vitae accumsan ex libero non est. Integer tristique facilisis erat, sed elementum enim pulvinar vitae.
 
-![Image alt text](http://i.imgur.com/O3bMo6L.gifv)
+![Image alt text](http://www.sideshowandsyrana.com/wp-content/uploads/2013/03/sc-mac.png)
 
 *Caption for image in italics – include info and, if you have them, links to their source.*
 
