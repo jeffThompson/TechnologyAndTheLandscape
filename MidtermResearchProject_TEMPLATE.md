@@ -31,9 +31,9 @@ Cras nec nunc sem. Mauris fringilla, leo ac laoreet porttitor, sapien nisi porta
 
 ## BIBLIOGRAPHY
 
-<a name="1"></a>Proust, Marcel. *Markdown Citations Are My Friend*. New York: Fake Books LLC, 2012. Print.  
+1. <a name="1"></a>Proust, Marcel. *Markdown Citations Are My Friend*. New York: Fake Books LLC, 2012. Print.  
 Optional annotations or notes for this text, if you want them.
 
-<a name="2"></a>Manaugh, Geoff. *A Burglar's Guide To The City*. New York: Farrar, Straus, and Giroux, 2016. Print.    
+2. <a name="2"></a>Manaugh, Geoff. *A Burglar's Guide To The City*. New York: Farrar, Straus, and Giroux, 2016. Print.    
 Historical examples of techology to burglar-proof homes.
 
