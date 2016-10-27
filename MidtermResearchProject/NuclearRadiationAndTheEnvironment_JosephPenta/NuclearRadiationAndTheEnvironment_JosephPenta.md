@@ -62,7 +62,7 @@ Although thought to be more efficient, developers are not always accounting for 
 
 This cesium-137 fueled radiation spilled into surrounding areas and even to adjacent countries by the strong winds. Belorussia received 60% of the radioactive fallout and military jets had to force rainfall of contaminated clouds over less populated areas. Within the radiation zone, many villages were abandoned. Without the proper maintenance even metallic structures fell into disarray due to rust. 
 
-![alt "Iconic image of an abandoned amusement park set to open days after the Chernobyl disaster occured."](Images/Chernobyl_park.jpg)
+![alt "Iconic image of an abandoned amusement park set to open days after the Chernobyl disaster occured."](Images/Chernobyl_park.JPG)
 
 Large manmade buildings serve as nesting points for all sorts of animals. Dilapidation of artificial dams in the area has allowed for the Pripyat marshlands to recover from the settlements established in the 1930s. Most animals do not live long enough to suffer from radiological cancer, so their presence is more welcomed in the harsh zone.  Wildlife near Pripyat has thrived from the prolonged absence of humans. Further radioactive mutation, has allowed indigenous vermin to increase reproduction when compared to controlled studies. Without the hunters and deforestation, the native wolf population has since increased by feeding on the rodents and lesser mammals. [\[10\]](#10)
 
@@ -99,7 +99,7 @@ While Japan appears to be in a stable position with regards to the effects of ra
 
 ![alt "Recovery workers must still wear proper protective equipment close to the reactors."](Images/fukushima_recovery.jpg)
 
-![alt "Swans near the cooling pond are fed by a volunteer."](Images/fukushima_swan.jpg) 
+![alt "Swans near the cooling pond are fed by a volunteer."](Images/fukushima_swans.jpg) 
 
 
 ##### Bibliography
