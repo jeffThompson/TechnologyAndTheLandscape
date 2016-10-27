@@ -21,7 +21,7 @@ In 1942 the United States government began the Manhattan Project in order to har
 
 The testing of the weapons was conducted in a much more deserted area for fear of the immense collateral damage. The first blast of the Trinity Test was executed in the White Sands Missile Range in the Jornada del Muerto desert of New Mexico. The set up was a 100 foot steel tower with the device resting on top. The explosion was the equivalent of 21 kilotons of TNT (four times greater than calculated), and produced a new element known as "trinitite." This element was found to be extremely radioactive, and the fallout could be measured for miles around. Cattle 30 miles away from the explosion were found with discolored back hair and radiation burns. [\[2\]](#2)The U.S. Army bought these cows from the ranchers in order to further test the long term effects of the radiation. 
 
-![alt "Chief Engineer Oppenheimer explores ground zero with Major General Leslie."] (Images/Oppenheimer_and_Major_General_Leslie.jpg)
+![alt "Chief Engineer Oppenheimer explores ground zero with Major General Leslie."](Images/Oppenheimer_and_Major_General_Leslie.jpg)
 
 ![alt "New mineral substance formed from the excessive heat and pressure on the land."](Images/trinitite.jpg)
 
@@ -31,7 +31,7 @@ Fulgarite and Impactite, minerals associated with lightning strikes and meteor c
 
 As far as Indiana, commercial film had shown significant signs of impurity or defect. August 1945, the bomb was dropped in Hiroshima and Nagasaki, but this was too soon and too far for any trace of fallout to reach the United States. A small bit of radiation had gotten into the water supply of a paper mill where the packaging material for Kodak film was made, and it had contaminated the product. 
 
-![alt "Contaminated packaging material used to transport commercial film caused the product to show cloudy or spotted images."] (Images/Wellerstein_Trinity_4.jpg)
+![alt "Contaminated packaging material used to transport commercial film caused the product to show cloudy or spotted images."](Images/Wellerstein_Trinity_4.jpg)
 
 ##### Marshall Islands
 
@@ -99,7 +99,7 @@ While Japan appears to be in a stable position with regards to the effects of ra
 
 ![alt "Recovery workers must still wear proper protective equipment close to the reactors."](Images/fukushima_recovery.jpg)
 
-![alt "Swans near the cooling pond are fed by a volunteer."] (Images/fukushima_swan.jpg) 
+![alt "Swans near the cooling pond are fed by a volunteer."](Images/fukushima_swan.jpg) 
 
 
 ##### Bibliography
@@ -155,7 +155,7 @@ While Japan appears to be in a stable position with regards to the effects of ra
 
 8.	Land, CE "Projected lifetime cancer risks from exposure to regional radioactive fallout in the Marshall Islands."  NCBI. National Institute of Health. US  National Library of Medicine. August 2010.
 
-9.	Moran, Tom. "Anatomy of a Titan Nuclear Missile Silo." Urban Ghost Media. March 22, 2010. [Reference] (http://www.urbanghostsmedia.com/2010/03/anatomy-of-a-titan-nuclear-missile-silo/)
+9.	Moran, Tom. "Anatomy of a Titan Nuclear Missile Silo." Urban Ghost Media. March 22, 2010. [Reference](http://www.urbanghostsmedia.com/2010/03/anatomy-of-a-titan-nuclear-missile-silo/)
 
 10.	Peterson, Kristen. "Welcome to Doom Town: Stories and Scars from Under the Cloud of a Nuclear Nevada." Las Vegas Weekly. October 4, 2012.
 
