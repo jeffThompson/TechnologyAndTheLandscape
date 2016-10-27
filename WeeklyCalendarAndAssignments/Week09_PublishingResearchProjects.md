@@ -45,3 +45,6 @@ None – take a break!
 * "The Longest Tubes" from *Tubes* (Blum)  
 * "Your Activities May Leave Footprints" from *Data Space* (CLOG)  
 
+###NEXT WEEK  
+Next week, weather permitting, we'll be doing a walking tour of technological infrastructure in downtown NYC, as well as a derivé. Please bring your MetroCards (we'll just be taking the PATH to WTC, no subway) and be prepared to spend a few hours walking. Comfy shoes are a must! You'll also want to bring your cameras and any other devices you might want – no laptops needed. We'll meet in the classroom right at 1pm and head to the station. If you'd like to meet us at the station or in NYC, please let me know ahead of time.
+
