@@ -46,6 +46,7 @@ United States would detonate thermonuclear bombs and send in Marines and soldier
 ![alt "Before and after aerial footage of Operation Ivy’s "Mike test." Mike stood for 1 Megaton expected yield, and used a Hydrogen fission source."](Images/Marshall_islands_2.jpg)
 
 ![alt "Two Marines photo bomb a hydrogen bomb."](Images/life_magazine.jpg)
+
 As the colonization of the Marshall Islands of Micronesia increased, the United States sent anthropologists to study the tribes. [\[6\]](#6)Medical researchers, officials from the Department of Energy, and volunteers from the Peace Corps discovered over two hundred citizens medically affected by the radiation of the testing on adjacent islands. Fewer than two hundred survived until the 1980s when the United States planned to offer medical assistance for the discovery of "excess cancers." [\[7\]](#7) For the 67 nuclear tests conducted in the islands, less than half of predicted cancers were found among survivors. Since 2004 the Marshallese tribes have been on a path to self sufficiency. Although the compensation for ‘land use’ was paid by the US government, the locals have been striving to get off of the welfare systems emplaced and achieve self governance in modern times.
 
 ![alt "Although irradiated, the locale of the Marshall Islands is on its own path to recovery."](Images/Bikini_forest_path.jpg) 
