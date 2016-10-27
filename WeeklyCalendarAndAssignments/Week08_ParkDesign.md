@@ -22,7 +22,7 @@ For a really intense version of what a park proposal (and the ideation process f
 This project will span a few weeks, leading up to your self-proposed final projects.
 
 * **Oct 20:** Project assigned, in-class ideation (homework: finish research project)  
-* **Oct 27:** In-class work day (homework: work on draft of part project for next week)  
+* **Oct 27:** In-class work day (homework: work on draft of park project for next week)  
 * **Nov 3:** Short crit of park proposals in progress; tech infrastructure walk in NYC (homework: finish project for next week)  
 * **Nov 10:** Park proposals due, critique and exhibition install; assign final project  
 
