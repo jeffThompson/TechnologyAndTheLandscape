@@ -127,42 +127,42 @@ Finish research project for next week
 
 \- \- \-
 
-### WEEK 9: EXPLORING THE URBAN LANDSCAPE  
+### [WEEK 9: PUBLISHING RESEARCH PROJECTS](https://github.com/jeffThompson/TechnologyAndTheLandscape/blob/master/WeeklyCalendarAndAssignments/Week09_PublishingResearchProjects.md)  
 
 **In class**   	
-Dérive in NYC
+Publish midterm research projects, work on park design proposals
 
 **Readings for this week**   	
-Selections from *Situationist International Anthology* (Knabb), *Drone Shadow Handbook* (Bridle), *Sonic Warfare* (Goodman)
+[ None, work on research project ]
 
 **Homework**   	
-Park Design project: design brief
+[ None, take a break :) ]
 
 \- \- \-
 
-### WEEK 10: TECHNOLOGICAL INFRASTRUCTURE    
+### WEEK 10: TECHNOLOGICAL INFRASTRUCTURE AND EXPLORING THE URBAN LANDSCAPE      
 
 **In class**   	
-Visit sites of internet infrastructure in NYC
+Visit sites of internet infrastructure in NYC, derivé
 
 **Readings for this week**   	
-Selections from *Tubes* (Blum), *Networks of New York* (Burrington), *Data Space* (CLOG)
+"Capture World" from *A Burglar's Guide to the City* (Manaugh), *Networks of New York* (Burrington), "Planet of the Drums" from *Sonic Warfare* (Goodman), "The Longest Tubes" from *Tubes* (Blum), "Your Activities May Leave Footprints" from *Data Space* (CLOG)  
 
 **Homework**   	
-Finish Park Design project proposal, write final project proposal
+Park project draft for next week
 
 \- \- \-
 
 ### WEEK 11: FUTURE LANDSCAPES    
 
 **In class**   	
-Selections from *Blade Runner*
+Selections from *Blade Runner*, *Prometheus*
 
 **Readings for this week**   	
 Selections from *Vermillion Sands* (Ballard), *Our Arrival* (Parrish)
 
 **Homework**   	
-Work on final project
+Finish park project, write final project proposal
 
 \- \- \-
 
