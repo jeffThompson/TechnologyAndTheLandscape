@@ -28,7 +28,11 @@ The most common invention used in all of science fiction is the flying car or pe
 
 ## Media of the Past, Tools of the Present
 
-From Jules Verne’s spacecraft to *Star Trek* wrist mounted communication devices ![Wrist Communicator](projpics/strek.jpg), the world has implemented many science fiction devices. It may only be a matter of time before the flying car makes its way into home garages -or landing pads I suppose. In 2016, the world is facing a great change when it comes to the automobile. Google’s self-driving cars are at the forefront. Although cars aren’t exactly airborne yet, this is a huge step towards that goal. There will still be quite some time until self-driving cars hit the road, as it was just announced on October 26, 2016  that 5 cities have been chosen to test the self-driving cars. Fuel-cell cars are another huge innovation being brought out in 2016. In 2015, Toyota announced the *Mirai*, the first ever commercial fuel-cell car. Although some stumbling blocks have been encountered, cars 
+From Jules Verne’s spacecraft to *Star Trek* wrist mounted communication devices, the world has implemented many science fiction devices. It may only be a matter of time before the flying car makes its way into home garages -or landing pads I suppose. In 2016, the world is facing a great change when it comes to the automobile. 
+
+![Wrist Communicator](projpics/strek.jpg)
+
+Google’s self-driving cars are at the forefront. Although cars aren’t exactly airborne yet, this is a huge step towards that goal. There will still be quite some time until self-driving cars hit the road, as it was just announced on October 26, 2016  that 5 cities have been chosen to test the self-driving cars. Fuel-cell cars are another huge innovation being brought out in 2016. In 2015, Toyota announced the *Mirai*, the first ever commercial fuel-cell car. Although some stumbling blocks have been encountered, cars and aircrafts can now be fuel-cell vehicles. Production of such vehicles is going to increase greatly going into 2017.
 
 ![The Toyota Mirai](projpics/mirai.jpg)
 
