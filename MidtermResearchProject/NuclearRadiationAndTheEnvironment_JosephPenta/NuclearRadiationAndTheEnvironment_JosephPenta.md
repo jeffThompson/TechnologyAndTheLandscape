@@ -23,11 +23,11 @@ The testing of the weapons was conducted in a much more deserted area for fear o
 
 ![alt "Chief Engineer Oppenheimer explores ground zero with Major General Leslie."](Images/Oppenheimer_and_Major_General_Leslie.jpg)
 
-![alt "New mineral substance formed from the excessive heat and pressure on the land."](Images/trinitite.jpg)
+![alt "New mineral substance formed from the excessive heat and pressure on the land."](Images/Trinitite.jpg)
 
 Fulgarite and Impactite, minerals associated with lightning strikes and meteor crashes respectively, were also found in the range of the explosion. Windows were shaken to shatter as far as a couple of hundred miles south. As film badges were used to test for limits of radiation exposure, it’s no surprise that the Kodak film industry would be affected as well. Film reel footage of the first few milliseconds of the blast was greatly damaged simply by the massive heat and light exposure. [\[3\]](#3)
 
-![alt "The film reel from the official military photographer was burnt through just milliseconds after detonation."](Images/Wellerstein_Trinity _3.jpg)
+![alt "The film reel from the official military photographer was burnt through just milliseconds after detonation."](Images/Wellerstein_Trinity_3.jpg)
 
 As far as Indiana, commercial film had shown significant signs of impurity or defect. August 1945, the bomb was dropped in Hiroshima and Nagasaki, but this was too soon and too far for any trace of fallout to reach the United States. A small bit of radiation had gotten into the water supply of a paper mill where the packaging material for Kodak film was made, and it had contaminated the product. 
 
