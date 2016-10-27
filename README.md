@@ -136,7 +136,7 @@ Publish midterm research projects, work on park design proposals
 [ None, work on research project ]
 
 **Homework**   	
-[ None, take a break :) ]
+[ None, take a break 😀 ]
 
 \- \- \-
 

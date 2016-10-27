@@ -13,7 +13,7 @@ Images should be in a folder called `images`, so you can link to them with `imag
 *Above: Aerial view of the grounds at Versailles.*
 
 ###PARK PROJECT CALENDAR  
-A reminder where we're at in the park project – note the change in deadlines:
+A reminder where we're at in the park project – **note the change in deadlines:**
 
 * **Oct 20:** Project assigned, in-class ideation (homework: finish research project)  
 * **Oct 27:** In-class work day (homework: none, take a break!)  
@@ -36,7 +36,7 @@ Once you start coming up with a plan for your park, start making drawings. These
 Once you've done this work, the next step will be figuring out what format makes most sense for your park's proposal and start working on it. You should aim for about 10-pages-worth of material, but that may include images, text, etc. This doesn't need to be formal, academic, or sound like a normal park proposal (the opposite is encouraged, actuall!) but should be carefully made to reflect your park.
 
 ###HOMEWORK  
-None – take a break!
+None – take a break! 😀
 
 ###READINGS FOR NEXT WEEK  
 * "Capture World" from *A Burglar's Guide to the City* (Manaugh)  
