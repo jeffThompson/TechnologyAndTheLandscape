@@ -15,7 +15,7 @@ There has always been a distinct divide between the agricultural and urban envir
 
 One, the environmental conditions in the city tend to be less than optimal. Air quality due to carbon emissions and other pollutants are the worst in highly populated cities. Los Angeles in Long Beach, California for example has the some of the worst air quality in the entire United States. Heavy pollution souces are the ports in which the ships burn high-sulfur, high-soot-producing bunker fule to maintain internal electrical power while docked, as well as diesel pollution from drayage trucks at the ports, and short-haul tractor-trailer trucks ferrying cargo from the ports to inland.  Although great efforts have been made to reduce this during the last decade, the pollution levels remain dangerously high. [\[2\]](#2) Plants act as natural air filtures. They literally pull carbon dioxide out of the air and release oxygen. There are even specific species of plants, like the Chrysanthemum indicum (Garden mum) which pull other pollutents (ammonia, benzene, formaldehyde, xylene etc.) out of the air in their growth process. [\[3\]](#3) 
 
-![alt text desc.](images/Chrysanthemum.jpg)
+![alt text desc.](images/Chrysanthemum_sp.jpg)
 
 *Figure 2. Picture of Chrysanthemum indicum (Garden mum). [\[4\]](#4)*
 
@@ -31,7 +31,7 @@ Now I'm not trying to convince you that you should invest in urban environment a
 
 A rational way this technology has been developed is in roof top and vertical vegetation design. Roof top gardening is a tried and true technique that has been implemented for centuries. The Guinigi Tower of Tuscany, Italy is a perfect example of this. This tower dates from the 1300s when a number of wealthy families built the tower with the rooftop garden serving as a kitchen garden. The tower was donated to the local government by the descendents of the Guinigi family and serves as a tourist attraction. The rooftop garden still remains to this day. [\[6\]](#6) 
 
-![alt text desc.](images/TorreGuinigiLuccaTuscanyItaly.jpg)
+![alt text desc.](images/TorreGuinigiTowerLuccaTuscanyItaly.jpg)
 
 *Figure 3. Picture of The Guinigi Tower of Tuscany. [\[7\]](#7)*
 
@@ -41,7 +41,7 @@ This vegetation design functions quite well in that the surface area of plant gr
 
 A lesser know technique of even greater potential is vertical vegetation design. This technology utilizes scaffolding, felt layers and vegetation panels to grow plants on the side of buildings. 
 
-![alt text desc.](images/anchoringtechniques.jpg)
+![alt text desc.](images/anchoringtechniques.PNG)
 
 *Figure 4. Diagram of three methods of vegetation anchoring, scaffolding, flet layers and vegatation panels. [\[8\]](#8)*
 
@@ -53,7 +53,7 @@ Think about it, buildings don't utilize their vertical surface area. If it was d
 
 The limiting factor for this technology is the lack of knowledge about its effectiveness and costs. There are several buildings currently in use that employ vertical vegetaion design.  However, these buildings utilize this technology more as a form of art than a practical means of aiding the environment. One such structure is the Concorcio building in Santiago, Chile. Worked with technical and natural resources, this building possesses a double facade: an inner with curtain wall and an outer with vegetation. This vegetation covers an area of 2,700 m2 and not only thrives in the summers but turns deep shades of red and yellow during the autumn season. [\[12\]](#12) 
 
-![alt text desc.](images/ConsorcioBuilding.jpg)
+![alt text desc.](images/ConsorcioBuilding.PNG)
 
 *Figure 6. Picture of Concorcio Building in Santiago, Chile. [\[13\]](#13)*
 
@@ -75,7 +75,7 @@ It was determined that aeroponic farming uses 95% less water and 50% less fertil
 4. Place sprinkler heads on PVC piping running upwards
 5. Place net pots in holes in roof of plastic container.
 
-![alt text desc.](images/alltogethernow.jpg)
+![alt text desc.](images/alltogethernow.png)
 
 *Figure 8.  Pictures of DIY aeroponic system directions, first image on left step 1, second image from left steps 2-3, third image from left step 4 and final image step 5. [\[17\]](#17)*
 
