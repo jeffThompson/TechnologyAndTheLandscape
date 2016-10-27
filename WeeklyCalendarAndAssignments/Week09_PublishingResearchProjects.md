@@ -6,7 +6,7 @@ WEEK 9: PUBLISHING RESEARCH PROJECTS, WORK DAY
 Today, we'll be publishing your research projects to the class Github repository and working on your park projects.
 
 **FORMATTING MIDTERM RESEARCH PROJECTS**  
-Please review the [research project Markdown template](https://github.com/jeffThompson/TechnologyAndTheLandscape/blob/master/MidtermResearchProject_TEMPLATE.md) and this [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for formatting. If you've never used Markdown before, I suggest using [this online editor](http://dillinger.io/) for realtime formatting.
+Please review the [research project Markdown template](https://github.com/jeffThompson/TechnologyAndTheLandscape/blob/master/MidtermResearchProject/TEMPLATE.md) and this [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for formatting. If you've never used Markdown before, I suggest using [this online editor](http://dillinger.io/) for realtime formatting.
 
 Images should be in a folder called `images`, so you can link to them with `images/ImageFilename.jpg`. Once your file is ready, we'll put it on a thumb drive and upload it. You can then check to make sure everything looks ok and make tweaks.
 

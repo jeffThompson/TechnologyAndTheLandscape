@@ -45,7 +45,7 @@ Some Japanese stab binding tutorials:
 * *[Terrapattern](http://www.terrapattern.com)*, a project using machine learning to search satellite imagery  
 
 ###HOMEWORK  
-This week, you will continue work on your [Research Project](https://github.com/jeffThompson/TechnologyAndTheLandscape/blob/master/MidtermResearchProjectAssignment.md), starting a rough draft of your post. This draft is due in two weeks (Oct 20), but please use this week to start writing, giving yourself enough time to do further research as needed.
+This week, you will continue work on your [Research Project](https://github.com/jeffThompson/TechnologyAndTheLandscape/blob/master/MidtermResearchProject/MidtermResearchProjectAssignment.md), starting a rough draft of your post. This draft is due in two weeks (Oct 20), but please use this week to start writing, giving yourself enough time to do further research as needed.
 
 ###READINGS FOR NEXT WEEK  
 

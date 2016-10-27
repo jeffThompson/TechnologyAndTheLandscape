@@ -48,7 +48,7 @@ Before starting, please set your Minecraft options as follows (`Esc > Options...
 ###HOMEWORK  
 For next week, please bring at least one finished drawing (hard copy) and email your poem to me ([jeff.thompson@stevens.edu](mailto:jeff.thompson@stevens.edu)). You can also bring some fancy paper for our book covers (you'll need one piece at 8.5x11") but this is optional.
 
-Additionally, we will be starting our research project this week. For next week, please prepare a bibliography and gather visual material. For details on this project and what's due, see the [Research Project](https://github.com/jeffThompson/TechnologyAndTheLandscape/blob/master/MidtermResearchProjectAssignment.md) post.
+Additionally, we will be starting our research project this week. For next week, please prepare a bibliography and gather visual material. For details on this project and what's due, see the [Research Project](https://github.com/jeffThompson/TechnologyAndTheLandscape/blob/master/MidtermResearchProject/MidtermResearchProjectAssignment.md) post.
 
 ###READINGS FOR NEXT WEEK  
 

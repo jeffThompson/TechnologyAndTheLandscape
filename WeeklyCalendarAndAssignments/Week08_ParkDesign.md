@@ -50,7 +50,7 @@ Places/topics related to Central Park and artificial landscapes:
 * ["Lenape Way" exhibition](https://www.nyu.edu/about/news-publications/news/2016/september/_lenapeway_-retraces-the-original-broadway-trailnyus-asian-pacif.html) about the Broadway Trail  
 
 ###HOMEWORK  
-For next week, please finish the final draft of your research projects. We'll have some time to convert them to Markdown format and upload them to Github in class, but if you want to get a headstart with the formatting, you're welcome to do so. See the [Research Project](https://github.com/jeffThompson/TechnologyAndTheLandscape/blob/master/MidtermResearchProjectAssignment.md) page for more details.
+For next week, please finish the final draft of your research projects. We'll have some time to convert them to Markdown format and upload them to Github in class, but if you want to get a headstart with the formatting, you're welcome to do so. See the [Research Project](https://github.com/jeffThompson/TechnologyAndTheLandscape/blob/master/MidtermResearchProject/MidtermResearchProjectAssignment.md) page for more details.
 
 ###READINGS FOR NEXT WEEK  
 [ None required, please work on your research projects ]
