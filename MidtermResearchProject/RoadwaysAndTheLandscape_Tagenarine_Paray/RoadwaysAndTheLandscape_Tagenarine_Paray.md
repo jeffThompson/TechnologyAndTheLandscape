@@ -1,4 +1,4 @@
-[!alt text](Images/29.jpg)
+![alt text](Images/29.jpg)
 
 # Roadways and the Landscape
 Tagenarine Paray  
@@ -7,13 +7,13 @@ Technology and the Landscape
 
 Roadways and interstates, as well as bridges, tunnels, and overpasses, have become common sights across the landscape of the United States. Most roadways, specifically highways in major cities, are almost always covered with cars, traffic, traffic lights, tire roar, engine noises, toxic fumes, street lights, directional signs, and road rage. However, prior to the era of roadways and automobiles was the era of dirt roads. According to Abrams, “our first roads were spontaneously formed by humans walking the same paths over and over to get water and find food. As small groups of people combined into villages, towns and cities, networks of walking paths became more formal roads” [\[1\]](#1). Eventually, as humanity advanced, roads started to take on heavier loads, such as horse-drawn carriages, putting a significant burden on the roads.
 
-[!alt text](Images/1.jpg)
+![alt text](Images/1.jpg)
 
 *Figure 1: Lewis and Delancy Street, 1893- [\[16\]](#16)*
   
 Above is an image from 1893 of the lower east side of Manhattan on Lewis street, north of Delancy street. As seen in the image, the roads were broken up and filled with trash and dirt. They lacked most of the modern amenities such as street lights and signs. Furthermore, the roads were filled with horse carriages and would become useless when it rained as the dirt turned into thick mud. 
 
-[!alt text](Images/2.jpg)
+![alt text](Images/2.jpg)
 
 *Figure 2: Lewis and Delancy, 2016- [\[17\]](#17)*
 
@@ -21,7 +21,7 @@ Above is a google maps version of the same area in 2016. Compared with the image
 
 The main transition from the era of carriages to the era of cars was the introduction of Henry Ford’s Model T. Prior to the Model T, the majority of people living in America relied heavily on horses and carriages for transportation. Realizing the need for a better alternative Henry Ford designed the Model T as a “practical, affordable transportation for the common man, prized for its low cost, durability, versatility, and ease of maintenance” [\[22\]](#22). This was primarily due to the fact that the Model T was mass produced on the world’s first assembly line, which enabled Ford to produce his product quickly and efficiently, compared to his competitors. Due to its popularity with the common working man, Ford sold over 15 million Model Ts between 1913 and 1927 [\[22\]](#22). After Ford’s introduction, many other businesses appeared, creating their own versions of the car, allowing people to choose from minimalistic, functional cars to big, luxurious automobiles. 
 
-[!alt text](Images/3.jpg)
+![alt text](Images/3.jpg)
 
 *Figure 3:Ford Advertisement- [\[12\]](#12)* 
 
@@ -29,33 +29,33 @@ As seen above, Ford created many different variations of the origional Model T, 
 
 The construction process of roads across America has remained relatively unchanged, since the introduction of the affordable automobile, with the main difference being the equipment used to construct them. 
 
-[!alt text](Images/4.jpg)
+![alt text](Images/4.jpg)
 
 *Figure 4: Road Scraping, Early 1900’s – [\[30\]](#30)*
 
-[!alt text](Images/5.jpg)
+![alt text](Images/5.jpg)
 
 *Figure 5: Road Paving, Early 1900’s – [\[9\]](#9)*
 
-[!alt text](Images/6.jpg)
+![alt text](Images/6.jpg)
 
 *Figure 6: Road Smoothing, Early 1900’s – [\[31\]](#31)* 
 
 As seen in the above images, workers would construct the roads utilizing horses, carriages, tractors, picks and shovels. The process involved creating a path through the landscape, filling it with asphalt or concrete, and then rolling over it with something heavy to make the material smooth and compact to withstand heavy loads without cracking. As aforementioned, the image below shows how the process remains the same. The modern version of road paving utilizes the same method used in the early 1900s, but more efficient and purpose built equipment to help reshape the landscape. As seen in the image below, the road being constructed is going straight through a forested area, altering the landscape not only visually but also ecologically. The roadway has essentially created a boundary for the local wildlife, separating the forest area from the open green area.
 
-[!alt text](Images/7.jpg)
+![alt text](Images/7.jpg)
 
 *Figure 7: Modern Road Construction – [\[32\]](#32)* 
 
 Beside the techniques used to construct the modern roads of America, it is also important to note the different shapes of the roads and what caused them to be that way. One of the main influeneces is the landscape that the road is going to be constructed over, as seen on the Blue Ridge Parkway and the Skyline Drive. According to Bush, “they dip into hollows, climb above timberline, and coil around summits. At every overlook, chain upon chain of mountains recede into the cerulean distance” [\[5\]](#5). Moreover, the parkway is made up of winding roads, changes in elevations, hair-pin turns, tunnels, bridges, and nature. 
 
-[!alt text](Images/8.jpg)
-[!alt text](Images/9.jpg)
-[!alt text](Images/10.jpg)
-[!alt text](Images/11.jpg)
-[!alt text](Images/12.jpg)
-[!alt text](Images/13.jpg)
-[!alt text](Images/14.jpg)
+![alt text](Images/8.jpg)
+![alt text](Images/9.jpg)
+![alt text](Images/10.jpg)
+![alt text](Images/11.jpg)
+![alt text](Images/12.jpg)
+![alt text](Images/13.jpg)
+![alt text](Images/14.jpg)
 
 *Figures 8-14: Scenic Blue Ridge Parkway- [\[4\]](#4)* 
 
@@ -63,67 +63,67 @@ As seen from the above images, the Blue Ridge Parkway is truly a dynamic road co
 
 *Figure 15: Grandfather Mountain Trip*
 
-[!alt text](Images/15.jpg)
+![alt text](Images/15.jpg)
 
 Besides the iconic and unique roadways, such as the Blue Ridge Parkway, it is important to think about the common roadways, such as the interstates, to fully appreciate the road technology spread across our landscape. It all started with the opening of the Pennsylvania Turnpike in 1940, “which had four lanes, flat curves and low grades, and ushered in an era of faster, safer travel that wouldn't bankrupt governments,” when compared to the existing highway system whose “death rates were more than four times higher per mile than today” [\[21\]](#21). Not only did the interstate system gaurantee motorists a safer ride, it impacted almost every person in America. According to the U.S. Department of Transportation, “every citizen has been touched by it, if not directly as motorists, then indirectly because every item we buy has been on the Interstate System at some point” [\[20\]](#20). Furthermore, President Eisenhower, the main proponent of the interstate system, was highly concerned about the threat of atomic attacks on America’s Major cities. Thus, he instituted a set of guidelines that will not only allow pedestrians to get out of the danger zones quickly, but also provide emergency landing zones for airplanes as seen below. 
 
-[!alt text](Images/16.jpg)
+![alt text](Images/16.jpg)
 
 *Figure 16: Interstate 5 – [\[28\]](#28)*
 
 According to the U.S. Department of Transportation,  the “design standards for the Interstate System include full control of access, design speeds of 50 to 70 miles per hour (depending on type of terrain), a minimum of two travel lanes in each direction, 12-foot lane widths, 10-foot right paved shoulder, and 4-foot left paved shoulder” [\[11\]](#11). In addition, the Department allows the standards to be altered every two years, depending on the amount of traffic. 
 
-[!alt text](Images/17.jpg)
+![alt text](Images/17.jpg)
 
 *Figure 17: Interstate Map in the U.S. – [\[25\]](#25)*
 
 Above is a map of the 41,000 miles of interstate roadways that started being constructed under the Presidential term of Eisenhower. As seen on the map, it connected the country in such a way that allowed the common man to travel across the country is a safe and direct manner, instead of relying on the existing rudimentary roads or the rail system. Moreover, it connected all of the country’s major cities, as indicated by the yellow stars, which made it easy for people to travel and transport their goods directly to their destination. Below is an image of a section of the original highway system, which has no safety rails, lane markers, or street lights. Thus, it made for a very treacherous motoring experience, especially when considering the fact that these roads hosted two-way traffic.
 
-[!alt text](Images/18.jpg)
+![alt text](Images/18.jpg)
 
 *Figure 18: Highway Prior to Interstates – [\[24\]](#24)*
 
 Besides creating a safer, more efficient mode of travel, the interstate system also allowed the economy and local neighborhoods to boom, while also creating some beautiful roadways and structures. According to Wray, “When the new highways opened, the results were almost immediate.  Suburbs sprung up all over the United States” [\[33\]](#33). This is due primarily to the fact that the interstate gave people a faster way to travel in and out of the major cities. Residents no longer had to live in small apartments located next to their jobs. They could now live 20-30 miles away and live in full sized homes. This also led to the eruption of businesses alongside the new interstates and the new suburbs. According to Gutfreund, “Shopping centers and malls went up at a pace matched only by the speed at which developers laid out new subdivisions along suburban highways” [\[18\]](#18). Below on the right is an image of the Westland Mall alongside Interstate 270, which was still under construction. On the left is a present day, Google Maps version of the same area. As seen in the image, the mall was located right next to the exit and entrance ramps of the interstate, giving people easy access to the mall. Again, the interstate served as a safe and quick way for people to get where they needed to be, such as the mall. Moreover, it is apparent how both the interstate and the mall have become an integral part of the landscape. Not only is it a source of transportation, it is the source of all of our goods and has become the lifeline of America. This is especially true when considering the fact that all of our goods today are being moved around by trucks traveling on the interstate, as mentioned before. 
 
-[!alt text](Images/19.jpg)
+![alt text](Images/19.jpg)
 
-[!alt text](Images/20.jpg)
+![alt text](Images/20.jpg)
 
 *Figures 19 & 20: Westland Mall/Interstate 270 Present [\[17\]](#17) and Past [\[27\]](#27)* 
 
 Furthermore, it is important to note how the interstate itself has become the landscape. It had been installed in the mid 1900’s and has remained there ever since, becoming a common sight for all Americans and being used constantly ever since its creation. Now, when creating new roadways, engineers have to look out for both nature and the existing interstate system. Thus, engineers now rely heavily on the use of overpasses and tunnels, shown below. 
 
-[!alt text](Images/21.jpg)
+![alt text](Images/21.jpg)
 
 *Figure 21: Above is a Google Maps image of a junction in Atlanta, linking two interstates to each other. [\[17\]](#17)*
 
 *Figure 22: Below is an image of interstate 40 flowing through the valleys of New Mexico.[\[2\]](#2)* 
 
-[!alt text](Images/22.jpg)
+![alt text](Images/22.jpg)
 
 *Figure 23: Below is an image of the entrance of the Eisenhower Tunnel along Interstate 70. - [\[23\]](#23)*
 
-[!alt text](Images/23.jpg)
+![alt text](Images/23.jpg)
 
 *Figure 24: Below is the proposed Trinity River Bridge along interstate 30.- [\[10\]](#10)*
 
-[!alt text](Images/24.jpg)
+![alt text](Images/24.jpg)
 
 *Figure 25: Below is an image of interstate 405 weaving itself through West Los Angeles.-[\[13\]](#13)*
 
-[!alt text](Images/25.jpg)
+![alt text](Images/25.jpg)
 
 *Figure 26: Below is an image of interstate 10 during rush hour running through Houston, Texas. – [\[8\]](#8)* 
 
-[!alt text](Images/26.jpg)
+![alt text](Images/26.jpg)
 
 *Figure 27: Below is a picture taken below one of the main junctions of interstate 10. – [\[14\]](#14)*
 
-[!alt text](Images/27.jpg)
+![alt text](Images/27.jpg)
 
 As seen in the images above, the interstate has morphed into something dynamic and unique, while also blending into the landscape. Much like the Blue Ridge Parkway, the interstate provides a unique experience for the motorist and offers them the opportunity to see the landscape in the comfort of their own cars. Although the aforementioned landscape may not be the original, natural landscape that existed before the automobile, it is the landscape that we live with today. Whether it is through wooded areas and mountains or through urban and metropolitan areas, the interstate, and the rest of the modern roadways, allow motorists to fully appreciate America’s landscape. This is especially true when considering the fact that America hosts over four million miles of active roads. The roads also give motorist the chance to be connected to their past, as the routes themselves rarely change. 
 
-[!alt text](Images/27.jpg)
+![alt text](Images/27.jpg)
 
 *Figure 28: Never Ending Road [\[29\]](#29)*
 
