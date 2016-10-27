@@ -81,7 +81,7 @@ Researchers have also planted thousands of trees in the area to stave off the ra
 
 Human error is not the only cause for alarm when safeguarding nuclear powered technologies. In 2011 the nuclear power plant in Fukushima, Japan aptly named Fukushima I, was hit by a massive earthquake and tsunami. While the reactors were able to shutdown their fission reactions following the earthquake, the subsequent tsunami destroyed the backup system which was cooling them during the stand by phase. There was no greater explosion than hydrogen air bursts emitting form the reactors, but this was still great damage. With the walls weakened, radioactive fallout was able to get into the groundwater systems. 
 
-![alt "Map tracking presence of radiation, days after the incident."](Images/NIT_combined.jpg]
+![alt "Map tracking presence of radiation, days after the incident."](Images/NIT_combined.jpg)
 
 While none of have been killed by radiation poisoning, the risk of cancer for populations in surrounding areas has increased by almost 10%. Most of the citizens in Fukushima were found to be safe from radiological exposure at the time of the disaster; but as the fallout progressed, more and more citizens were found to be exposed in non-detrimental doses of 1.7 to 2.8 millisieverts. [\[11\]](#11) As a precaution the World Health Organization set up a growing exclusion zone around the defunct power plant, which increased to a 20 km radius by 2013.
 
@@ -93,7 +93,7 @@ Despite this, radioactive ash was found throughout mainland Japan following the 
 
 Drinking water in nearby prefectures was found by the IAEA to be within safe limits of cesium and iodine, however present. In contrast to Chernobyl’s growth of wildlife, the fauna of Fukushima have been suffering more than their human counterparts. Once again plants and mushrooms were found to absorb radioactive cesium through their roots. Wood found to be irradiated by this disaster is currently found to burn with 85% mass to energy efficiency rate in foreign labs. This new biomaterial could help with power plants and nuclear research across the world.[\[15\]](#15) Animals that ate these plants however, were found to suffer from extreme doses of radiation sickness. [\[12\]](#12)
 
-![alt "Pork meat is popular in Japan. Without farmers to control the populace, the boars have become feral."](Image/fukushima_boar.jpg) 
+![alt "Pork meat is popular in Japan. Without farmers to control the populace, the boars have become feral."](Images/fukushima_boar.jpg) 
 
 While Japan appears to be in a stable position with regards to the effects of radiation, signs of danger have migrated to the ocean. Plankton colonies off the eastern shore of Japan have tested positive for cesium contamination.[\[13\]](#13) Fishing is allowed outside of 10km from the reactors, but the effects are still present beyond that arbitrary boundary. Plankton are a major food source for wild fish, and the humans and animals who eat these are in dangerous of become sick themselves. The radiation leaks are said to be fixed between 2017 and 2021; some speculate the aqueous fallout could reach as far as Alaska, but tests are still being done on the water and wildlife there. [\[14\]](#14)
 
