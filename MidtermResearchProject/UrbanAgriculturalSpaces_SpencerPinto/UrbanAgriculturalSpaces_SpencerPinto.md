@@ -96,7 +96,7 @@ Now if this is such a good and practical idea to merge urban with agriculture, w
 *Figure 10. Sketch of skyline before and after application of agricultural to urban environment.*
 
 
-## BIBLIOGRAPHY
+## Bibliography
 
 1. <a name="1"></a>*"Top 25 Cities in the World with the Most High-Rise Buildings"*. Twisted Sifter. Wordpress.com. 22 Nov 2011 Web 20 Oct 2016. Aerial view of Manhattan
 
