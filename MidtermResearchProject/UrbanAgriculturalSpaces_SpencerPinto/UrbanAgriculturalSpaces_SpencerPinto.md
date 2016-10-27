@@ -1,5 +1,5 @@
 
-[!alt text desc.](images/new-york-15.jpg)
+![alt text desc.](images/new-york-15.jpg)
 
 # Urban Agricultural Spaces
 
@@ -15,7 +15,7 @@ There has always been a distinct divide between the agricultural and urban envir
 
 One, the environmental conditions in the city tend to be less than optimal. Air quality due to carbon emissions and other pollutants are the worst in highly populated cities. Los Angeles in Long Beach, California for example has the some of the worst air quality in the entire United States. Heavy pollution souces are the ports in which the ships burn high-sulfur, high-soot-producing bunker fule to maintain internal electrical power while docked, as well as diesel pollution from drayage trucks at the ports, and short-haul tractor-trailer trucks ferrying cargo from the ports to inland.  Although great efforts have been made to reduce this during the last decade, the pollution levels remain dangerously high. [\[2\]](#2) Plants act as natural air filtures. They literally pull carbon dioxide out of the air and release oxygen. There are even specific species of plants, like the Chrysanthemum indicum (Garden mum) which pull other pollutents (ammonia, benzene, formaldehyde, xylene etc.) out of the air in their growth process. [\[3\]](#3) 
 
-[!alt text desc.](images/Chrysanthemum.jpg)
+![alt text desc.](images/Chrysanthemum.jpg)
 
 *Figure 2. Picture of Chrysanthemum indicum (Garden mum). [\[4\]](#4)*
 
@@ -31,7 +31,7 @@ Now I'm not trying to convince you that you should invest in urban environment a
 
 A rational way this technology has been developed is in roof top and vertical vegetation design. Roof top gardening is a tried and true technique that has been implemented for centuries. The Guinigi Tower of Tuscany, Italy is a perfect example of this. This tower dates from the 1300s when a number of wealthy families built the tower with the rooftop garden serving as a kitchen garden. The tower was donated to the local government by the descendents of the Guinigi family and serves as a tourist attraction. The rooftop garden still remains to this day. [\[6\]](#6) 
 
-[!alt text desc.](images/TorreGuinigiLuccaTuscanyItaly.jpg)
+![alt text desc.](images/TorreGuinigiLuccaTuscanyItaly.jpg)
 
 *Figure 3. Picture of The Guinigi Tower of Tuscany. [\[7\]](#7)*
 
@@ -41,19 +41,19 @@ This vegetation design functions quite well in that the surface area of plant gr
 
 A lesser know technique of even greater potential is vertical vegetation design. This technology utilizes scaffolding, felt layers and vegetation panels to grow plants on the side of buildings. 
 
-[!alt text desc.](images/anchoringtechniques.jpg)
+![alt text desc.](images/anchoringtechniques.jpg)
 
 *Figure 4. Diagram of three methods of vegetation anchoring, scaffolding, flet layers and vegatation panels. [\[8\]](#8)*
 
 Think about it, buildings don't utilize their vertical surface area. If it was decided to grow vegetation on the northern side of the Empire State building, that would cover ~230,000 ft2.  The buildings base is only ~80,000 ft2. That means by growing these plants vertically on just one side of the building, 3X as much vegetation can be produced as would be if plants were grown in the base.  A 650 ft2 area of vegetation is needed to produce enough oxygen to sustain a adult human.  [\[9\]](#9) That means the empire state building's vertical vegetation could supply oxygen for 354 people. That just one building! If this were done on every building in Manhattan, the city could easily produce 2X as much vegetation or more than if all of Manhattan were farmed. If the same logic is used in this larger scale that means vertical vegetation in Manhattan could produce enough oxygen for 1,958,353 people. Manhattan only has a population of 1,626,000 people! This city could produce enough oxygen for its enitre population and an additional 330,000 people. Not to mention if the vegetation grown was edible it could produce 321,446,970 pounds of produce. A grown human adult consumes about ~2,000 pounds of food per year. [\[10\]](#10) Although a humans diet rarely consists of only vegetation, this could theoretically feed 160,723 people per year. 
 
-[!alt text desc.](images/beforeandafter.jpg)
+![alt text desc.](images/beforeandafter.jpg)
 
 *Figure 5. Picuture of Flatiron Building in Manhattan before and after vertical vegetation applied. [\[11\]](#11)*
 
 The limiting factor for this technology is the lack of knowledge about its effectiveness and costs. There are several buildings currently in use that employ vertical vegetaion design.  However, these buildings utilize this technology more as a form of art than a practical means of aiding the environment. One such structure is the Concorcio building in Santiago, Chile. Worked with technical and natural resources, this building possesses a double facade: an inner with curtain wall and an outer with vegetation. This vegetation covers an area of 2,700 m2 and not only thrives in the summers but turns deep shades of red and yellow during the autumn season. [\[12\]](#12) 
 
-[!alt text desc.](images/ConsorcioBuilding.jpg)
+![alt text desc.](images/ConsorcioBuilding.jpg)
 
 *Figure 6. Picture of Concorcio Building in Santiago, Chile. [\[13\]](#13)*
 
@@ -63,7 +63,7 @@ The costs of the vegetation anchoring methods are still quite high. However, the
 
 Another technology being developed is areoponic farming. The basic principle of aeroponic growth is to grow plants suspended in a closed environment by spraying the plant's dangling roots and lower stems with an nutrient-rich water solution. The roots of the plants are supported by a reusable clothe material. This technology was first discovered by W.Carter in 1942 who researched air culture growing and described a method of growing plants in water vapor to facilitate examination of roots. However, it wasn't until 1997 that the technology was further practically developed by NASA for use on the Mir space station. 
 
-[!alt text desc.](images/intermediate.jpg)
+![alt text desc.](images/intermediate.jpg)
 
 *Figure 7. Pictures of NASA aeroponics testing facility. [\[15\]](#15)*
 
@@ -75,7 +75,7 @@ It was determined that aeroponic farming uses 95% less water and 50% less fertil
 4. Place sprinkler heads on PVC piping running upwards
 5. Place net pots in holes in roof of plastic container.
 
-[!alt text desc.](images/alltogethernow.jpg)
+![alt text desc.](images/alltogethernow.jpg)
 
 *Figure 8.  Pictures of DIY aeroponic system directions, first image on left step 1, second image from left steps 2-3, third image from left step 4 and final image step 5. [\[17\]](#17)*
 
@@ -83,7 +83,7 @@ Simply add water and fertilizer to the plastic container and the aeroponic syste
 
 Companies such as Aerofarms are running their first aeroponic farming facilities in places as close as the Ironbound section of Newark. This Aerofarms facility serves mainly as a research and developement plant focused on data acquisition. Each plant is closely monitored and given specific wavelengths of light that are necessary for growth. Specific amounts of nutrients and water are given to the plants as researchers determine the optimal harvest conditions. Areofarms can produce as many as 30 harvests in a single year, vastly out pacing traditional farming methods. This farms is also built in a multi-layer fashion, generating nine or ten times the produce that would traditional be produced over a fixed surface area. Several other vertical farming companies have been started over the last 10 or so years, however these companies have failed due to bankruptcy. Aerofarms is hoping that by optimizing the production of plants and only transporting these plants to local markets they can begin to become a profitable business. One of the down sides of the Aerofarms agricultural production techniques is there use of LED lights. Although this allows plants to be grown 24 hours a day, it also requires a massive amount of energy. Half of all areofarm costs come from the energy spent on these LED lights. [\[19\]](#19) Also at this rate of energy consumption, this facility is actual increasing the carbon foot print and negates the fact that it is growing plants. Regardless, this technology should still be persued. Although it is not environmentally effiecent now, aeroponic developement is always improving. Eventually this goal will be accomplished. However if the technology is avoided because of this set back, it can never be improved.
 
-[!alt text desc.](images/combined.jpg)
+![alt text desc.](images/combined.jpg)
 
 *Figure 9. Pictures of Aerofarms facility in Newark. [\[20\]](#20)* 
 
@@ -91,7 +91,7 @@ Companies such as Aerofarms are running their first aeroponic farming facilities
 
 Now if this is such a good and practical idea to merge urban with agriculture, why isn't everyone doing it? Its because this technology hasn't been fully tested. Years of data don't exist that show these techniques work. All of the individuals and companies experimenting with these technologies are still in there start up phase, receiving grants from the government and small support from hopeful investors. If it is proven that these techniques do bring financial benefit, whether through insulating buildings, improving PR, or simply yielding monetary gain, then their use will escalate. In fact, if this is proven, then this future will be unavoidable, being that profit is the main driving force in our free market economy. As for now, this is still something of the future and its looking very hopeful.
 
-[!alt text desc.](images/sketchcombined.jpg)
+![alt text desc.](images/sketchcombined.jpg)
 
 *Figure 10. Sketch of skyline before and after application of agricultural to urban environment.*
 
