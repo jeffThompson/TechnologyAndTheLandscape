@@ -18,6 +18,8 @@ This week, we'll be taking a walking tour of technological infrastructure in dow
 
 After that, we'll do a randomized walk, called a [derivé](https://en.wikipedia.org/wiki/D%C3%A9rive), as a way of further exploring the urban environment. We'll wrap up the day by walking to the Christopher St PATH station (or up to 111 8th Ave, current Google headquarters and formerly another carrier hotel).
 
+You can find a map of our walking tour here: [https://goo.gl/maps/iwMxgjYRdcP2](https://goo.gl/maps/iwMxgjYRdcP2)
+
 ###HOMEWORK  
 For next week, please prepare draft materials for your park project proposal. We'll do a critique of these in class, so they should be printed single-sided (8.5x11 paper), please! 
 
