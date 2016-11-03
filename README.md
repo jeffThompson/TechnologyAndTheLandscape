@@ -140,7 +140,7 @@ Publish midterm research projects, work on park design proposals
 
 \- \- \-
 
-### WEEK 10: [TECHNOLOGICAL INFRASTRUCTURE AND EXPLORING THE URBAN LANDSCAPE](https://github.com/jeffThompson/TechnologyAndTheLandscape/blob/master/WeeklyCalendarAndAssignments/Week10_TechnologicalInfrastructureAndExploringTheUrbanLandscape.md)  
+### [WEEK 10: TECHNOLOGICAL INFRASTRUCTURE AND EXPLORING THE URBAN LANDSCAPE](https://github.com/jeffThompson/TechnologyAndTheLandscape/blob/master/WeeklyCalendarAndAssignments/Week10_TechnologicalInfrastructureAndExploringTheUrbanLandscape.md)  
 
 **In class**   	
 Visit sites of internet infrastructure in NYC, derivé
