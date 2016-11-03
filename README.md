@@ -140,7 +140,7 @@ Publish midterm research projects, work on park design proposals
 
 \- \- \-
 
-### WEEK 10: TECHNOLOGICAL INFRASTRUCTURE AND EXPLORING THE URBAN LANDSCAPE      
+### WEEK 10: [TECHNOLOGICAL INFRASTRUCTURE AND EXPLORING THE URBAN LANDSCAPE](https://github.com/jeffThompson/TechnologyAndTheLandscape/blob/master/WeeklyCalendarAndAssignments/Week10_TechnologicalInfrastructureAndExploringTheUrbanLandscape.md)  
 
 **In class**   	
 Visit sites of internet infrastructure in NYC, derivé
@@ -159,7 +159,7 @@ Park project draft for next week
 Selections from *Blade Runner*, *Prometheus*
 
 **Readings for this week**   	
-Selections from *Vermillion Sands* (Ballard), *Our Arrival* (Parrish)
+Selections from *Vermillion Sands* (Ballard), *The Ones Who Walk Away From Omelas* (Le Guin)  
 
 **Homework**   	
 Finish park project, write final project proposal
