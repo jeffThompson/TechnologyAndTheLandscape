@@ -153,16 +153,16 @@ Park project draft for next week
 
 \- \- \-
 
-### WEEK 11: FUTURE LANDSCAPES    
+### [WEEK 11: FUTURE LANDSCAPES](https://github.com/jeffThompson/TechnologyAndTheLandscape/blob/master/WeeklyCalendarAndAssignments/Week11_SciFiAndFutureLandscapes.md)  
 
 **In class**   	
-Selections from *Blade Runner*, *Prometheus*
+Selections from *Blade Runner*, *Prometheus*, and other sci fi films
 
 **Readings for this week**   	
 Selections from *Vermillion Sands* (Ballard), *The Ones Who Walk Away From Omelas* (Le Guin)  
 
 **Homework**   	
-Finish park project, write final project proposal
+Finish park project, final project pitch ideas
 
 \- \- \-
 
