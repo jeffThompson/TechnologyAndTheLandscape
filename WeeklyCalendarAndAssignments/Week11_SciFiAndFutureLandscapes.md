@@ -14,20 +14,14 @@ In the world of science fiction, *Prometheus* co-writer Damon Lindelof suggests 
 ![The Starkiller base from "Star Wars: The Force Awakens".](https://raw.githubusercontent.com/jeffThompson/TechnologyAndTheLandscape/master/Images/Week11/StarkillerBase.jpg)
 
 ###PROJECTS/FILMS SHOWN  
-* Views of a Greek-revival city and its fantastical gardens in *Metropolis* (3:00–8:00)  
-1927, directed by Fritz Lang  
+* Views of a Greek-revival city and its fantastical gardens in *Metropolis* (3:00–8:00, 1927, directed by Fritz Lang)  
 Perhaps the first feature-length science fiction movie, takes place in a dystopian city in the year 2026.  
-The [rotating wheel](https://en.wikipedia.org/wiki/Rotating_wheel_space_station) space station providing artificial gravity and landing on the moon in *2001: A Space Odyssey* (20:00–27:54, 33:45–41:07)
-1968, directed by Stanley Kubrick  
-* Flynn getting digitized into the world of *Tron* (27:49–57:42)  
-1982, directed by Steven Lisberger  
+* The [rotating wheel](https://en.wikipedia.org/wiki/Rotating_wheel_space_station) space station providing artificial gravity and landing on the moon in *2001: A Space Odyssey* (20:00–27:54 and 33:45–41:07, 1968, directed by Stanley Kubrick)  
+* Flynn getting digitized into the world of *Tron* (27:49–57:42, 1982, directed by Steven Lisberger)  
 Landscapes of both contemporary computer infrastructure and the imagined space inside.  
-* Scenes of the gritty, neon-infused version of Los Angeles from *Blade Runner* (2:00–4:42, 7:25–23:17)  
-1982, directed by Ridley Scott  
-* And a planet, turned into a weapon that sucks energy from a nearby start, in *Star Wars: The Force Awakens* (1:31:45–1:40:53)  
-2015, directed by J.J. Abrams  
-* Intro showing the planet and an alien using technology to discorporate, and from *Prometheus* (0:00–44:31)  
-2012, directed by Ridley Scott  
+* Scenes of the gritty, neon-infused version of Los Angeles from *Blade Runner* (2:00–4:42 and 7:25–23:17, 1982, directed by Ridley Scott)  
+* And a planet, turned into a weapon that sucks energy from a nearby start, in *Star Wars: The Force Awakens* (1:31:45–1:40:53, 2015, directed by J.J. Abrams)  
+* Intro showing the planet and an alien using technology to discorporate, and from *Prometheus* (0:00–44:31, 2012, directed by Ridley Scott)  
 This entire film is really about the landscape, both natural and human/alien-made.  
 
 ###HOMEWORK  
