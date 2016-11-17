@@ -166,26 +166,35 @@ Finish park project, final project pitch ideas
 
 \- \- \-
 
-### WEEK 12: VIRTUAL AND ALGORITHMIC LANDSCAPES    
+### [WEEK 12: VIRTUAL AND ALGORITHMIC LANDSCAPES](https://github.com/jeffThompson/TechnologyAndTheLandscape/blob/master/WeeklyCalendarAndAssignments/Week12_AlgorithmicLandscapes.md)  
 
 **In class**   	
 Videogame play-throughs, make something from the perspective of a data buoy
 
 **Readings for this week**   	
-Selections from *Ready Player One*, articles on *Dwarf Fortress* and *No Man’s Sky*
+Articles on *Dwarf Fortress* and *No Man’s Sky*, *Our Arrival* (Parrish)
 
 **Homework**   	
 Work on final project
 
 \- \- \-
 
-### WEEK 13 AND 14: WORK WEEKS    
+### WEEK 13: WORK WEEK  
+
+**JEFF OUT OF TOWN – NO CLASS THIS WEEK.**
+
+**Homework**  
+Concrete work-in-progress due next week
+
+\- \- \-
+
+### WEEK 14: WORK WEEK  
 
 **In class**   	
 In-progress critique and work day
 
 **Homework**   	
-Work on final project and documentation
+Finish final project and documentation
 
 \- \- \-
 
