@@ -3,7 +3,7 @@
 WEEK 12: ALGORITHMIC LANDSCAPES
 ====
 
->> "The development of an organism... may be considered as the execution of a 'developmental program' present in the fertilized egg... A central task of developmental biology is to discover the underlying algorithm from the course of development." – Aristid Lindenmayer and Grzegorz Rozenberg (quoted in *Computational Beauty of Nature*)
+> "The development of an organism... may be considered as the execution of a 'developmental program' present in the fertilized egg... A central task of developmental biology is to discover the underlying algorithm from the course of development." – Aristid Lindenmayer and Grzegorz Rozenberg (quoted in *Computational Beauty of Nature*)
 
 Last week, we looked at landscapes that were imagined, perhaps drawn or painted (digitally or using analog methods), or existing only as words. But those places are only onscreen in small fragments and in our imaginations. This week, we'll look at wholly generated worlds, ones that simultaneously exist fully-formed (often so intricate as to have working systems like weather or erosion) and yet are only numbers. Many, like the games *No Man's Sky* and *Dwarf Fortress\**, are generated with immense levels of detail, more than we will even be able to actually see. Others, such as landscape-generating Twitter bots, are more humble, made with a some code and a few scraps of Unicode.
 
