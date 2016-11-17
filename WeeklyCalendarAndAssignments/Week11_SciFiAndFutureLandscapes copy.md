@@ -20,7 +20,7 @@ Perhaps the first feature-length science fiction movie, takes place in a dystopi
 * Flynn getting digitized into the world of *Tron* (27:49–57:42, 1982, directed by Steven Lisberger)  
 Landscapes of both contemporary computer infrastructure and the imagined space inside.  
 * Scenes of the gritty, neon-infused version of Los Angeles from *Blade Runner* (2:00–4:42 and 7:25–23:17, 1982, directed by Ridley Scott)  
-* And a planet, turned into a weapon that sucks energy from a nearby start, in *Star Wars: The Force Awakens* (1:31:45–1:40:53, 2015, directed by J.J. Abrams)  
+* And a planet, turned into a weapon that sucks energy from a nearby star, in *Star Wars: The Force Awakens* (1:31:45–1:40:53, 2015, directed by J.J. Abrams)  
 * Intro showing the planet and an alien using technology to discorporate, and from *Prometheus* (0:00–44:31, 2012, directed by Ridley Scott)  
 This entire film is really about the landscape, both natural and human/alien-made.  
 
